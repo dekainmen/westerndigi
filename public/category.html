@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WesternDiva MODERN LUXURY | Category</title>
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/js/supabase.js"></script>
+<script src="/js/auth-state.js"></script>
+
+<script>
+tailwind.config = {
+theme:{
+extend:{
+colors:{
+brand:{
+bg:"#FFFFFF",
+cream:"#F8F8F8",
+pink:"#E91E63",
+purple:"#9C27B0",
+green:"#4CAF50",
+dark:"#333333",
+charcoal:"#1A1A1A",
+border:"#E0E0E0"
+}
+}
+}
+}
+}
+</script>
+</head>
+
+<body class="bg-brand-bg text-brand-dark flex flex-col min-h-screen">
+
+<!-- HEADER -->
+
+<header class="bg-brand-charcoal text-white">
+
+<div class="max-w-7xl mx-auto flex items-center justify-between px-8 py-4">
+
+<h1 class="text-2xl font-bold tracking-wider cursor-pointer"
+onclick="window.location.href='/'"
+style="background: linear-gradient(45deg,#E91E63,#9C27B0);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+background-clip:text;">
+
+WesternDiva
+<span class="text-black text-lg font-light">MODERN LUXURY</span>
+
+</h1>
+
+<nav class="hidden md:flex space-x-8 text-sm font-medium">
+
+<a href="/category.html?cat=Clothing">Clothing</a>
+<a href="/category.html?cat=Footwear">Footwear</a>
+<a href="/category.html?cat=Accessories">Accessories</a>
+<a href="/category.html?cat=Jewellery">Jewellery</a>
+
+</nav>
+
+<button id="authButton" class="border border-white px-4 py-2 rounded-lg hover:bg-white hover:text-black transition">
+Login / Sign Up
+</button>
+
+<a href="/cart.html"
+class="border border-white px-4 py-2 rounded-lg hover:bg-white hover:text-black transition">
+Cart 🛒
+</a>
+
+</div>
+
+</header>
+
+
+<!-- MAIN CONTENT -->
+
+<div class="flex-grow">
+
+<section class="max-w-7xl mx-auto px-8 py-10">
+
+<!-- TITLE -->
+
+<div class="flex justify-center mb-8">
+
+<h2 id="title"
+class="bg-brand-cream border-2 border-brand-pink px-8 py-3 rounded-lg text-2xl font-semibold tracking-wide">
+</h2>
+
+</div>
+
+
+<!-- SUBCATEGORY NAVBAR -->
+
+<div id="subcategoryNavbar"
+class="flex gap-3 pb-8 overflow-x-auto justify-center">
+</div>
+
+
+<!-- PRODUCTS GRID -->
+
+<div id="products"
+class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10">
+</div>
+
+</section>
+
+</div>
+
+
+<script>
+
+/* GET CATEGORY FROM URL */
+
+const params = new URLSearchParams(window.location.search);
+const category = params.get("cat") || "Clothing";
+
+
+/* CATEGORY TREE */
+
+const CATEGORY_TREE = {
+
+Clothing:[
+"Bottomwear",
+"Dresses",
+"Shorts",
+"Topwear",
+"Leggings",
+"Trackpants"
+],
+
+Footwear:[
+"Shoes",
+"Sandals",
+"Heels",
+"Wedges",
+"Flipflops"
+],
+
+Accessories:[
+"Bags",
+"Clutches",
+"Bags and Clutches",
+"Sunglasses"
+],
+
+Jewellery:[
+"Rings",
+"Necklace",
+"Earrings"
+]
+
+};
+
+
+/* RENDER SUBCATEGORY NAVBAR */
+
+function renderSubcategoryNavbar(){
+
+const container = document.getElementById("subcategoryNavbar");
+
+const subs = CATEGORY_TREE[category] || [];
+
+container.innerHTML = "";
+
+subs.forEach(sub=>{
+
+const btn = document.createElement("button");
+
+btn.className = `
+px-4 py-2
+bg-brand-cream
+rounded-full
+text-sm
+border border-brand-border
+hover:bg-brand-pink
+hover:text-white
+transition
+`;
+
+btn.innerText = sub;
+
+btn.onclick = () => loadProducts(sub);
+
+container.appendChild(btn);
+
+});
+
+}
+
+
+/* LOAD PRODUCTS */
+
+async function loadProducts(subcategory=""){
+
+let url = `/api/products?category=${encodeURIComponent(category)}`;
+
+if(subcategory){
+url += `&subcategory=${encodeURIComponent(subcategory)}`;
+}
+
+const res = await fetch(url);
+const products = await res.json();
+
+const container = document.getElementById("products");
+
+container.innerHTML = "";
+
+if(!products.length){
+
+container.innerHTML = "<p class='text-center col-span-full'>No products found</p>";
+return;
+
+}
+
+products.forEach(p=>{
+
+container.innerHTML += `
+
+<div class="bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden cursor-pointer"
+onclick="goToProduct('${p.id}')">
+
+<div class="aspect-[4/5] overflow-hidden">
+
+<img
+src="${p.image}"
+loading="lazy"
+class="w-full h-full object-cover"
+/>
+
+</div>
+
+<div class="p-4 text-center">
+
+<h3 class="font-semibold mb-1">
+${p.name}
+</h3>
+
+<p class="text-brand-pink font-medium">
+₹${p.price}
+</p>
+
+</div>
+
+</div>
+
+`;
+
+});
+
+}
+
+
+/* PDP REDIRECT */
+
+function goToProduct(id){
+
+window.location.href = `/product.html?id=${id}`;
+
+}
+
+
+/* INIT */
+
+document.addEventListener("DOMContentLoaded",()=>{
+
+document.getElementById("title").innerText = category + " Collection";
+
+renderSubcategoryNavbar();
+loadProducts();
+
+});
+
+</script>
+
+
+<!-- FOOTER -->
+
+<footer class="bg-brand-cream border-t border-brand-border">
+
+<div class="max-w-7xl mx-auto px-8 py-12 grid md:grid-cols-4 gap-10 text-sm">
+
+<div>
+
+<h3 class="font-semibold mb-4">ONLINE SHOPPING</h3>
+
+<ul class="space-y-2">
+<li><a href="/category.html?cat=Clothing">Clothing</a></li>
+<li><a href="/category.html?cat=Footwear">Footwear</a></li>
+<li><a href="/category.html?cat=Accessories">Accessories</a></li>
+<li><a href="/category.html?cat=Jewellery">Jewellery</a></li>
+</ul>
+
+</div>
+
+
+<div>
+
+<h3 class="font-semibold mb-4">CUSTOMER POLICIES</h3>
+
+<ul class="space-y-2">
+<li><a href="/contact.html">Contact Us</a></li>
+<li><a href="/faq.html">FAQ</a></li>
+<li><a href="/shipping.html">Shipping</a></li>
+<li><a href="/returns.html">Returns</a></li>
+<li><a href="/privacy.html">Privacy Policy</a></li>
+</ul>
+
+</div>
+
+
+<div>
+
+<h3 class="font-semibold mb-4">USEFUL LINKS</h3>
+
+<ul class="space-y-2">
+<li><a href="/about.html">About Us</a></li>
+<li><a href="/bulk-orders.html">Bulk Orders</a></li>
+</ul>
+
+</div>
+
+
+<div>
+
+<h3 class="font-semibold mb-4">SHOP WITH CONFIDENCE</h3>
+
+<p>✔ 100% Original Products</p>
+<p>🔁 Easy 21 day exchanges</p>
+<p>🚚 Cash on Delivery available</p>
+
+</div>
+
+</div>
+
+
+<div class="border-t border-brand-border text-center py-4 text-sm">
+© 2026 WesternDiva. All rights reserved.
+</div>
+
+</footer>
+
+</body>
+</html>

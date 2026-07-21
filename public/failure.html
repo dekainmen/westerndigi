@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WesDiva MODERN LUXURY | Payment Failed</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          brand: {
+            bg: "#FFFFFF",
+            cream: "#F8F8F8",
+            pink: "#E91E63",
+            purple: "#9C27B0",
+            green: "#4CAF50",
+            dark: "#333333",
+            charcoal: "#1A1A1A",
+            border: "#E0E0E0"
+          }
+        }
+      }
+    }
+  }
+  </script>
+</head>
+
+<body class="
+  bg-brand-bg
+  flex items-center
+  justify-center
+  h-screen
+  text-brand-dark
+">
+
+<div class="
+  bg-brand-cream
+  border border-brand-border
+  p-10
+  rounded-xl
+  text-center
+  shadow
+">
+
+  <h1 class="
+    text-3xl
+    font-light
+    mb-4
+    text-red-600
+  ">
+    Payment Failed
+  </h1>
+
+  <p class="mb-6">
+    Something went wrong.
+    Please try again.
+  </p>
+
+  <a
+    href="/checkout.html"
+    class="
+      bg-brand-pink
+      text-white
+      px-6 py-2
+      rounded-lg
+      hover:bg-brand-purple
+      transition
+    "
+  >
+    Retry Payment
+  </a>
+
+</div>
+
+</body>
+</html>

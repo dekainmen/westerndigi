@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "alloy-diamond-silver-bracelet",
+    "name": "Alloy Diamond Silver Bracelet",
+    "price": 4350,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-1-9-na-1-krh-elegant-floral-bracelet-kiorah-original-imah8kgzaszed9g2.jpg?v=1758291878"
+  },
+  {
+    "id": "crystal-crystal-bracelet",
+    "name": "Crystal Crystal Bracelet",
+    "price": 2213,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-size-1-smas0362n-2-satyamani-original-imafj9bght4x79yd.jpg?v=1758291877"
+  },
+  {
+    "id": "stone-crystal-bracelet",
+    "name": "Stone Crystal Bracelet",
+    "price": 2400,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-2-5-na-1-001-sparsh-gems-original-imahafzubgrnbjze.jpg?v=1758291876"
+  },
+  {
+    "id": "stone-crystal-beads-crystal-bracelet",
+    "name": "Stone, Crystal Beads, Crystal Bracelet",
+    "price": 2235,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-2-5-na-natural-multi-beads-bracelet-for-men-and-women-original-imagz7sfv2zm5v6j.jpg?v=1758291876"
+  },
+  {
+    "id": "stainless-steel-cubic-zirconia-gold-plated-bracelet",
+    "name": "Stainless Steel Cubic Zirconia Gold-plated Bracelet",
+    "price": 2763,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-18-na-1-pmwssbr088-g-palmonas-original-imah7ytutarzw9sf.jpg?v=1758291875"
+  },
+  {
+    "id": "stone-crystal-beads-agate-crystal-bracelet",
+    "name": "Stone, Crystal Beads, Agate, Crystal Bracelet",
+    "price": 2188,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-3-na-1-iolite-bracelet-reiki-healing-crystal-10mm-beads-original-imah28zk8ufrm7wb.jpg?v=1758291874"
+  },
+  {
+    "id": "stone-malachite-bracelet",
+    "name": "Stone Malachite Bracelet",
+    "price": 2075,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/malachite-bracelet-10mm-7-reiki-crystal-products-1-original-imaee5hk9jgpzeb6.jpg?v=1758291873"
+  },
+  {
+    "id": "brass-tourmaline-silver-bracelet",
+    "name": "Brass Tourmaline Silver Bracelet",
+    "price": 2963,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/3-5-1-gb200102-gempro-original-imafqn8x9ugskhym.jpg?v=1758291872"
+  },
+  {
+    "id": "brass-gold-plated-bracelet",
+    "name": "Brass Gold-plated Bracelet",
+    "price": 2043,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-na-na-1-re14v403386-rubans-original-imahdewzs4vcxwn7.jpg?v=1758291871"
+  },
+  {
+    "id": "steel-gold-plated-bracelet",
+    "name": "Steel Gold-plated Bracelet",
+    "price": 4995,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/2-4-2-15-na-1-ubb04027ygwhl-guess-original-imahdg57qumkzuhj.jpg?v=1758291870"
+  },
+  {
+    "id": "metal-gold-plated-bracelet",
+    "name": "Metal Gold-plated Bracelet",
+    "price": 2582,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsreqf4zm5kv.jpg?v=1758291868"
+  },
+  {
+    "id": "stainless-steel-bracelet",
+    "name": "Stainless Steel Bracelet",
+    "price": 5444,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-3-3-na-1-cijlb2106705-cerruti-1881-original-imah8adzcztgfkyy.jpg?v=1758291867"
+  },
+  {
+    "id": "wood-bracelet",
+    "name": "Wood Bracelet",
+    "price": 3734,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/4-1-original-beige-sandalwood-bracelet-rdk-original-imafgxeyyzebhrgz.jpg?v=1758291866"
+  },
+  {
+    "id": "stone-crystal-green-jade-beads-agate-crystal-jade",
+    "name": "Stone, Crystal, Green Jade Beads, Agate, Crystal, Jade,...",
+    "price": 2339,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-3-5-na-1-green-jade-pi-yao-bracelet-12mm-beads-plusvalue-original-imahfbgrs5sbh7ya.jpg?v=1758291864"
+  },
+  {
+    "id": "brass-cubic-zirconia-gold-plated-bracelet",
+    "name": "Brass Cubic Zirconia Gold-plated Bracelet",
+    "price": 2019,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/2-6-1-br-pr-20053-g-priyaasi-original-imafqet6yhhk3fjp.jpg?v=1758291863"
+  },
+  {
+    "id": "stone-beads-crystal-quartz-bracelet",
+    "name": "Stone Beads, Crystal, Quartz Bracelet",
+    "price": 4266,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-2-8-1-golden-rutilated-quartz-bracelet-gemtre-original-imafvyzfcrhpcghu.jpg?v=1758291862"
+  },
+  {
+    "id": "copper-copper-bracelet",
+    "name": "Copper Copper Bracelet",
+    "price": 2498,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/4-1-ulo-p18-01302-aarogyam-energy-jewellery-original-imaf7p4rw8hrcgqs.jpg?v=1758291860"
+  },
+  {
+    "id": "stainless-steel-gold-plated-bracelet",
+    "name": "Stainless Steel Gold-plated Bracelet",
+    "price": 3424,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-7-na-1-br092-palmonas-original-imah2usewc4eetq4.jpg?v=1758291859"
+  },
+  {
+    "id": "brass-brass-bracelet",
+    "name": "Brass Brass Bracelet",
+    "price": 3995,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagsd6w4rfjzuaz.jpg?v=1758291859"
+  },
+  {
+    "id": "stone-lapis-lazuli-bracelet",
+    "name": "Stone Lapis Lazuli Bracelet",
+    "price": 2317,
+    "category": "Jewellery",
+    "subcategory": "Bracelets",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-1-lapis-lazuli-8mm-stone-valentine-gift-reiki-fengshui-original-imahc7zguvdf94dh.jpg?v=1758291858"
+  },
+  {
+    "id": "power-graphic-pants-women-solid-grey-track-pants",
+    "name": "Power Graphic Pants Women Solid Grey Track Pants",
+    "price": 1624,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahy2jrtn8dgqw2.jpg?v=1758290582"
+  },
+  {
+    "id": "sportswear-club-women-solid-black-track-pants",
+    "name": "Sportswear Club Women Solid Black Track Pants",
+    "price": 3295,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahy8bgzrjkszzc.jpg?v=1758290581"
+  },
+  {
+    "id": "ws-straight-leg-pants-women-solid-maroon-track-pants",
+    "name": "Ws Straight Leg Pants Women Solid Maroon Track Pants",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-58825012-puma-original-imagd7feekfdura7-bb.jpg?v=1758290579"
+  },
+  {
+    "id": "women-graphic-pant-1-women-graphic-print-black-track-pa",
+    "name": "WOMEN GRAPHIC PANT 1 Women Graphic Print Black Track Pa...",
+    "price": 1249,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-84789301-puma-original-imag9j73pb8qggsh.jpg?v=1758290578"
+  },
+  {
+    "id": "women-solid-purple-track-pants",
+    "name": "Women Solid Purple Track Pants",
+    "price": 1889,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-84709360-puma-original-imahfu2hpaksfcnp.jpg?v=1758290577"
+  },
+  {
+    "id": "women-printed-purple-track-pants",
+    "name": "Women Printed Purple Track Pants",
+    "price": 6599,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-jm6514-adidas-original-imahdq8yfkdh75hs.jpg?v=1758290576"
+  },
+  {
+    "id": "wmn-graphic-pants-10-women-solid-red-track-pants",
+    "name": "Wmn Graphic Pants 10 Women Solid Red Track Pants",
+    "price": 1287,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-84785850-puma-original-imaghbxyarc5ggjy.jpg?v=1758290575"
+  },
+  {
+    "id": "women-solid-white-track-pants",
+    "name": "Women Solid White Track Pants",
+    "price": 3999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-52780987-puma-original-imahezp5wcgybyjg.jpg?v=1758290574"
+  },
+  {
+    "id": "ws-straight-leg-pants-women-solid-grey-track-pants",
+    "name": "Ws Straight Leg Pants Women Solid Grey Track Pants",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahyyhxgq5zukzh.jpg?v=1758290573"
+  },
+  {
+    "id": "ws-straight-leg-pants-women-printed-blue-track-pants",
+    "name": "Ws Straight Leg Pants Women Printed Blue Track Pants",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahyyhxpnwkvwvc.jpg?v=1758290572"
+  },
+  {
+    "id": "wmn-graphic-pants-5-women-solid-blue-track-pants",
+    "name": "Wmn Graphic Pants 5 Women Solid Blue Track Pants",
+    "price": 1149,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-84785501-puma-original-imag3z9mmztmfhyq-bb.jpg?v=1758290571"
+  },
+  {
+    "id": "women-self-design-black-track-pants",
+    "name": "Women Self Design Black Track Pants",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-68956301-puma-original-imahesy6ymngreh7.jpg?v=1758290570"
+  },
+  {
+    "id": "women-solid-grey-track-pants",
+    "name": "Women Solid Grey Track Pants",
+    "price": 1249,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfeunfszdpgfs.jpg?v=1758290569"
+  },
+  {
+    "id": "women-solid-black-track-pants",
+    "name": "Women Solid Black Track Pants",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-52750301-puma-original-imahezp6yheks5td.jpg?v=1758290568"
+  },
+  {
+    "id": "women-striped-beige-track-pants",
+    "name": "Women Striped Beige Track Pants",
+    "price": 1187,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagrcanfype9vzz.jpg?v=1758290567"
+  },
+  {
+    "id": "women-solid-brown-track-pants",
+    "name": "Women Solid Brown Track Pants",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-62975683-puma-original-imahesxx5gdc3hsu.jpg?v=1758290566"
+  },
+  {
+    "id": "women-solid-beige-track-pants",
+    "name": "Women Solid Beige Track Pants",
+    "price": 1889,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-84709384-puma-original-imahfyn8ccky9udy.jpg?v=1758290561"
+  },
+  {
+    "id": "women-printed-beige-track-pants",
+    "name": "Women Printed Beige Track Pants",
+    "price": 7999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/14-jx8760-adidas-original-imahdq8zy2g9ghqu.jpg?v=1758290560"
+  },
+  {
+    "id": "women-printed-grey-track-pants",
+    "name": "Women Printed Grey Track Pants",
+    "price": 12999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-jw4662-adidas-original-imahdq8fys5xthfk.jpg?v=1758290558"
+  },
+  {
+    "id": "women-printed-pink-track-pants",
+    "name": "Women Printed Pink Track Pants",
+    "price": 1399,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-68745317-puma-original-imah7349ftqtmzqx.jpg?v=1758290558"
+  },
+  {
+    "id": "women-solid-pink-track-pants",
+    "name": "Women Solid Pink Track Pants",
+    "price": 1499,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxs-68039917-puma-original-imah4k8pypkfwpkv.jpg?v=1758290557"
+  },
+  {
+    "id": "women-printed-black-track-pants",
+    "name": "Women Printed Black Track Pants",
+    "price": 10999,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/5xl-jd4786-adidas-original-imahf8pazytxxjhf.jpg?v=1758290556"
+  },
+  {
+    "id": "women-solid-dark-blue-track-pants",
+    "name": "Women Solid Dark Blue Track Pants",
+    "price": 674,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-bq0511-adidas-original-imag74u9drajdfsj-bb.jpg?v=1758290555"
+  },
+  {
+    "id": "women-solid-blue-track-pants",
+    "name": "Women Solid Blue Track Pants",
+    "price": 1959,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-68710366-puma-original-imahcz7ma8e3shrh.jpg?v=1758290554"
+  },
+  {
+    "id": "women-solid-green-track-pants",
+    "name": "Women Solid Green Track Pants",
+    "price": 2499,
+    "category": "Clothing",
+    "subcategory": "Trackpants",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-62799622-puma-original-imah397czmdgrh66.jpg?v=1758290554"
+  },
+  {
+    "id": "solid-women-blue-regular-shorts",
+    "name": "Solid Women Blue Regular Shorts",
+    "price": 2095,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-dx6011-440-nike-original-imagsyj7zwtndrd5.jpg?v=1758290443"
+  },
+  {
+    "id": "solid-women-purple-sports-shorts",
+    "name": "Solid Women Purple Sports Shorts",
+    "price": 2155,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-fn2602-512-nike-original-imah9m5dgaxdjz9a.jpg?v=1758290442"
+  },
+  {
+    "id": "solid-women-black-running-shorts",
+    "name": "Solid Women Black Running Shorts",
+    "price": 2274,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagzzsncyrzwdva.jpg?v=1758290441"
+  },
+  {
+    "id": "solid-women-grey-sports-shorts",
+    "name": "Solid Women Grey Sports Shorts",
+    "price": 2299,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-52028554-puma-original-imagyxg8ghggsz8n.jpg?v=1758290440"
+  },
+  {
+    "id": "solid-women-pink-casual-shorts",
+    "name": "Solid Women Pink Casual Shorts",
+    "price": 2484,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagpzdyxbwhue8y.jpg?v=1758290439"
+  },
+  {
+    "id": "solid-women-black-regular-shorts",
+    "name": "Solid Women Black Regular Shorts",
+    "price": 2495,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-dx6013-010-nike-original-imagrwfurkegyyzd.jpg?v=1758290439"
+  },
+  {
+    "id": "printed-women-purple-regular-shorts",
+    "name": "Printed Women Purple Regular Shorts",
+    "price": 2499,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagydxyyhv2mgqb.jpg?v=1758290438"
+  },
+  {
+    "id": "pack-of-2-printed-women-multicolor-casual-shorts",
+    "name": "Pack of 2 Printed Women Multicolor Casual Shorts",
+    "price": 2499,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-67651002-puma-original-imagkzahpchxxfkx.jpg?v=1758290437"
+  },
+  {
+    "id": "solid-women-black-casual-shorts",
+    "name": "Solid Women Black Casual Shorts",
+    "price": 2595,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-dm6753-010-nike-original-imagr5nthwzyhjxc.jpg?v=1758290437"
+  },
+  {
+    "id": "printed-women-pink-sports-shorts",
+    "name": "Printed Women Pink Sports Shorts",
+    "price": 2799,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagnd8srhn38qtx.jpg?v=1758290436"
+  },
+  {
+    "id": "striped-women-black-sports-shorts",
+    "name": "Striped Women Black Sports Shorts",
+    "price": 2799,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-it3408-adidas-original-imahbga5cdfaqxpw.jpg?v=1758290435"
+  },
+  {
+    "id": "solid-women-black-sports-shorts",
+    "name": "Solid Women Black Sports Shorts",
+    "price": 2999,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-krw28-adidas-original-imahdpygfwyfxsf6.jpg?v=1758290430"
+  },
+  {
+    "id": "solid-women-blue-casual-shorts",
+    "name": "Solid Women Blue Casual Shorts",
+    "price": 3499,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagmhyzchjdykuf.jpg?v=1758290428"
+  },
+  {
+    "id": "solid-women-pink-sports-shorts",
+    "name": "Solid Women Pink Sports Shorts",
+    "price": 3590,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-hr9176-adidas-original-imahymvqbztujegt.jpg?v=1758290428"
+  },
+  {
+    "id": "solid-women-white-sports-shorts",
+    "name": "Solid Women White Sports Shorts",
+    "price": 3599,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-v1083-adidas-original-imahdpygyzyagwvf.jpg?v=1758290427"
+  },
+  {
+    "id": "printed-women-pink-casual-shorts",
+    "name": "Printed Women Pink Casual Shorts",
+    "price": 3599,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-kc0747-adidas-original-imahf86yqx5z7xwk.jpg?v=1758290426"
+  },
+  {
+    "id": "printed-women-white-casual-shorts",
+    "name": "Printed Women White Casual Shorts",
+    "price": 3599,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-kc0746-adidas-original-imahf86y9xguemsh.jpg?v=1758290425"
+  },
+  {
+    "id": "graphic-print-women-grey-sports-shorts",
+    "name": "Graphic Print Women Grey Sports Shorts",
+    "price": 4599,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahdxk3ssnwabgd.jpg?v=1758290425"
+  },
+  {
+    "id": "printed-women-grey-sports-shorts",
+    "name": "Printed Women Grey Sports Shorts",
+    "price": 4599,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-krh97-adidas-original-imahdpygupwfpwz7.jpg?v=1758290424"
+  },
+  {
+    "id": "printed-women-black-sports-shorts",
+    "name": "Printed Women Black Sports Shorts",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-kkk59-adidas-original-imahdpygy6x8fvpw.jpg?v=1758290423"
+  },
+  {
+    "id": "printed-women-blue-sports-shorts",
+    "name": "Printed Women Blue Sports Shorts",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-kkk59-adidas-original-imahdpywzhjx47zd.jpg?v=1758290422"
+  },
+  {
+    "id": "solid-women-blue-sports-shorts",
+    "name": "Solid Women Blue Sports Shorts",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/33-jup01-adidas-original-imahdpyzhpbdkgfa.jpg?v=1758290421"
+  },
+  {
+    "id": "women-comfort-fit-fit-embroidered-spread-collar-casual",
+    "name": "Women Comfort Fit Fit Embroidered Spread Collar Casual ...",
+    "price": 1699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-308030-the-souled-store-original-imahdp35yhtfr8sg.jpg?v=1758098057"
+  },
+  {
+    "id": "women-regular-fit-washed-spread-collar-casual-shirt",
+    "name": "Women Regular Fit Washed Spread Collar Casual Shirt",
+    "price": 2195,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-224065594-1-monte-carlo-original-imahynykzw6ea5he.jpg?v=1758098056"
+  },
+  {
+    "id": "women-boxy-fit-solid-cut-away-collar-casual-shirt",
+    "name": "Women Boxy Fit Solid Cut Away Collar Casual Shirt",
+    "price": 1124,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-sfshrt20204-sassafras-original-imaguerumncxhyc3.jpg?v=1758098055"
+  },
+  {
+    "id": "women-slim-fit-solid-spread-collar-casual-shirt",
+    "name": "Women Slim Fit Solid Spread Collar Casual Shirt",
+    "price": 1499,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-320985-the-souled-store-original-imaheb86dsh3dxbp.jpg?v=1758098054"
+  },
+  {
+    "id": "women-oversized-fit-solid-spread-collar-casual-shirt",
+    "name": "Women Oversized Fit Solid Spread Collar Casual Shirt",
+    "price": 1079,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-sfshrt20686-sassafras-original-imahfrau6mtzgbuz.jpg?v=1758098053"
+  },
+  {
+    "id": "women-relaxed-fit-fit-embroidered-spread-collar-casual",
+    "name": "Women Relaxed Fit Fit Embroidered Spread Collar Casual ...",
+    "price": 1999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-308027-the-souled-store-original-imaheb86zypbnckc.jpg?v=1758098052"
+  },
+  {
+    "id": "women-oversized-fit-solid-button-down-collar-casual-shi",
+    "name": "Women Oversized Fit Solid Button Down Collar Casual Shi...",
+    "price": 1499,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-268349-the-souled-store-original-imah4fv5fw63jjfq.jpg?v=1758098052"
+  },
+  {
+    "id": "women-slim-fit-self-design-spread-collar-casual-shirt",
+    "name": "Women Slim Fit Self Design Spread Collar Casual Shirt",
+    "price": 1399,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-321075-the-souled-store-original-imahfsvwwkzffhkm.jpg?v=1758098050"
+  },
+  {
+    "id": "women-boxy-fit-striped-spread-collar-casual-shirt",
+    "name": "Women Boxy Fit Striped Spread Collar Casual Shirt",
+    "price": 1189,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-sfshrt20207-sassafras-original-imaguffjymurtvf6.jpg?v=1758098050"
+  },
+  {
+    "id": "women-comfort-fit-fit-printed-spread-collar-casual-shir",
+    "name": "Women Comfort Fit Fit Printed Spread Collar Casual Shir...",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-sfshrt20684-pink-paprika-by-sassafras-original-imahfctdwgxanubt.jpg?v=1758098048"
+  },
+  {
+    "id": "women-na-fit-printed-casual-shirt",
+    "name": "Women NA Fit Printed Casual Shirt",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-aw25wwhotwv00059frostygreen-honey-by-pantaloons-original-imahdzzh7ay7bkgr.jpg?v=1758098048"
+  },
+  {
+    "id": "women-boxy-fit-striped-casual-shirt",
+    "name": "Women Boxy Fit Striped Casual Shirt",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-aw25wwhotwv00059frostygreen-honey-by-pantaloons-original-imahdzzhymg45zwr.jpg?v=1758098046"
+  },
+  {
+    "id": "women-boxy-fit-printed-casual-shirt",
+    "name": "Women Boxy Fit Printed Casual Shirt",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-aw25wwhotwv00059friarbrown-honey-by-pantaloons-original-imahdzzh4hbvvqck.jpg?v=1758098046"
+  },
+  {
+    "id": "women-boxy-fit-solid-button-down-collar-casual-shirt",
+    "name": "Women Boxy Fit Solid Button Down Collar Casual Shirt",
+    "price": 1699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-216576-the-souled-store-original-imagpc7hxtukzsyb.jpg?v=1758098045"
+  },
+  {
+    "id": "women-boxy-fit-solid-casual-shirt",
+    "name": "Women Boxy Fit Solid Casual Shirt",
+    "price": 1099,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah2hpcmaungb8y.jpg?v=1758098044"
+  },
+  {
+    "id": "women-regular-fit-striped-casual-shirt",
+    "name": "Women Regular Fit Striped Casual Shirt",
+    "price": 1199,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-aw25wwantwv00006snowwhite-annabelle-by-pantaloons-original-imahdzzhv8eu5rju.jpg?v=1758098043"
+  },
+  {
+    "id": "women-slim-fit-solid-casual-shirt",
+    "name": "Women Slim Fit Solid Casual Shirt",
+    "price": 1384,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-551-6614n-43-identiti-original-imagkfehgeaau5ga.jpg?v=1758098042"
+  },
+  {
+    "id": "women-regular-fit-self-design-cut-away-collar-casual-sh",
+    "name": "Women Regular Fit Self Design Cut Away Collar Casual Sh...",
+    "price": 1111,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-vnsh000082-vishudh-original-imahcauzrhjmbpaa.jpg?v=1758098041"
+  },
+  {
+    "id": "women-regular-fit-solid-spread-collar-formal-shirt",
+    "name": "Women Regular Fit Solid Spread Collar Formal Shirt",
+    "price": 1039,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-ahsfcrgfy41586-allen-solly-original-imah7f7t2jcje7z7.jpg?v=1758098040"
+  },
+  {
+    "id": "women-fit-and-flare-black-maxi-full-length-dress",
+    "name": "Women Fit and Flare Black Maxi/Full Length Dress",
+    "price": 1949,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-wpgbecomwdrs3806-black-globus-original-imah6u7rmez6b2kc.jpg?v=1758097741"
+  },
+  {
+    "id": "women-sheath-blue-above-knee-mid-thigh-length-dress",
+    "name": "Women Sheath Blue Above Knee/Mid Thigh Length Dress",
+    "price": 2283,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-dr521blwh-fable-street-original-imahehztt3wmmkaf.jpg?v=1758097740"
+  },
+  {
+    "id": "women-fit-and-flare-yellow-knee-length-dress",
+    "name": "Women Fit and Flare Yellow Knee Length Dress",
+    "price": 2230,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-23auas14186-507173-aurelia-original-imagt4qs6cpegx9c.jpg?v=1758097740"
+  },
+  {
+    "id": "women-ethnic-dress-pink-midi-calf-length-dress",
+    "name": "Women Ethnic Dress Pink Midi/Calf Length Dress",
+    "price": 2210,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-22fea13377-505394-aurelia-original-imaghaqfrssukh7r.jpg?v=1758097739"
+  },
+  {
+    "id": "women-maxi-green-midi-calf-length-dress",
+    "name": "Women Maxi Green Midi/Calf Length Dress",
+    "price": 1610,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-21fea11614-701280-aurelia-original-imagyd46ggg4fzcr.jpg?v=1758097738"
+  },
+  {
+    "id": "women-shirt-beige-black-above-knee-mid-thigh-length-dr",
+    "name": "Women Shirt Beige, Black Above Knee/Mid Thigh Length Dr...",
+    "price": 1649,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-134467401-vero-moda-original-imagwu9ezzmymu6u.jpg?v=1758097737"
+  },
+  {
+    "id": "women-a-line-pink-midi-calf-length-dress",
+    "name": "Women A-line Pink Midi/Calf Length Dress",
+    "price": 1751,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-fskndr1558pink-fable-street-original-imahehtsxsfc3rjy.jpg?v=1758097736"
+  },
+  {
+    "id": "women-ethnic-dress-red-ankle-length-dress",
+    "name": "Women Ethnic Dress Red Ankle Length Dress",
+    "price": 1890,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/4xl-21aua11966-503870-aurelia-original-imag7h6treyagn2g.jpg?v=1758097735"
+  },
+  {
+    "id": "women-fit-and-flare-light-green-midi-calf-length-dress",
+    "name": "Women Fit and Flare Light Green Midi/Calf Length Dress",
+    "price": 1601,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/8xl-dn913sgreen-prettyplus-by-desinoor-com-original-imahaghqmggvhmtu.jpg?v=1758097734"
+  },
+  {
+    "id": "women-fit-and-flare-red-grey-white-knee-length-dress",
+    "name": "Women Fit and Flare Red, Grey, White Knee Length Dress",
+    "price": 1539,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-233558001-vero-moda-original-imagycr99zcz28rk.jpg?v=1758097733"
+  },
+  {
+    "id": "women-fit-and-flare-grey-ankle-length-dress",
+    "name": "Women Fit and Flare Grey Ankle Length Dress",
+    "price": 2310,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xs-22fea13330-505515-aurelia-original-imagg6gahy6bsygx.jpg?v=1758097732"
+  },
+  {
+    "id": "women-ethnic-dress-maroon-ankle-length-dress",
+    "name": "Women Ethnic Dress Maroon Ankle Length Dress",
+    "price": 2210,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-22aua13489-505389-aurelia-original-imaghjy7ts4txsnq.jpg?v=1758097732"
+  },
+  {
+    "id": "women-fit-and-flare-purple-knee-length-dress",
+    "name": "Women Fit and Flare Purple Knee Length Dress",
+    "price": 2010,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-23auas14186-507174-aurelia-original-imagt4rvkzeadsgg.jpg?v=1758097731"
+  },
+  {
+    "id": "women-ethnic-dress-multicolor-ankle-length-dress",
+    "name": "Women Ethnic Dress Multicolor Ankle Length Dress",
+    "price": 3400,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/5xl-dress-abha-original-imahew45zjyd7pe6.jpg?v=1758097730"
+  },
+  {
+    "id": "women-a-line-pink-above-knee-mid-thigh-length-dress",
+    "name": "Women A-line Pink Above Knee/Mid Thigh Length Dress",
+    "price": 1574,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfksbrybyfnzm.jpg?v=1758097729"
+  },
+  {
+    "id": "women-maxi-red-full-length-dress",
+    "name": "Women Maxi Red Full Length Dress",
+    "price": 1748,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-badrss12596-sassafras-original-imahfrhjykgjrvb3.jpg?v=1758097728"
+  },
+  {
+    "id": "women-ethnic-dress-yellow-ankle-length-dress",
+    "name": "Women Ethnic Dress Yellow Ankle Length Dress",
+    "price": 1519,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-22fea13330-505516-aurelia-original-imagagq48jhgpant.jpg?v=1758097727"
+  },
+  {
+    "id": "women-fit-and-flare-maroon-knee-length-dress",
+    "name": "Women Fit and Flare Maroon Knee Length Dress",
+    "price": 1543,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/3xl-dn648maroon-prettyplus-by-desinoor-com-original-imah3xuuzyzz6sg7.jpg?v=1758097725"
+  },
+  {
+    "id": "women-maxi-blue-full-length-dress",
+    "name": "Women Maxi Blue Full Length Dress",
+    "price": 2295,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-sku-08-abstract-print-maxi-dress-abha-clothing-original-imahefcvc6hzhv6v.jpg?v=1758097723"
+  },
+  {
+    "id": "women-ethnic-dress-green-midi-calf-length-dress",
+    "name": "Women Ethnic Dress Green Midi/Calf Length Dress",
+    "price": 1690,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-22aua12407-506640-aurelia-original-imagharfgnqzv379.jpg?v=1758097722"
+  },
+  {
+    "id": "women-a-line-blue-below-knee-dress",
+    "name": "Women A-line Blue Below Knee Dress",
+    "price": 2799,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-badrss12610-sassafras-original-imahfrhj5hhtv9y4.jpg?v=1758097721"
+  },
+  {
+    "id": "women-fit-and-flare-yellow-midi-calf-length-dress",
+    "name": "Women Fit and Flare Yellow Midi/Calf Length Dress",
+    "price": 1615,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/7xl-dn913dmustard-prettyplus-by-desinoor-com-original-imahaghq36dfkrah.jpg?v=1758097714"
+  },
+  {
+    "id": "women-layered-pink-midi-calf-length-dress",
+    "name": "Women Layered Pink Midi/Calf Length Dress",
+    "price": 1899,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xl-mcss23d13-78-309-miss-chase-original-imagrwe2zjgsych5.jpg?v=1758097713"
+  },
+  {
+    "id": "women-a-line-green-knee-length-dress",
+    "name": "Women A-line Green Knee Length Dress",
+    "price": 1798,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-ccd25052817-color-cocktail-original-imahf53dsy7w8w8j.jpg?v=1758097712"
+  },
+  {
+    "id": "women-a-line-blue-midi-calf-length-dress",
+    "name": "Women A-line Blue Midi/Calf Length Dress",
+    "price": 2500,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxl-ldr23715-rawwash-pluss-original-imaherhfha7tedhg.jpg?v=1758097712"
+  },
+  {
+    "id": "women-fit-and-flare-blue-midi-calf-length-dress",
+    "name": "Women Fit and Flare Blue Midi/Calf Length Dress",
+    "price": 2564,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-vva1000002-vishudh-original-imahc8vnpxsy6f7q.jpg?v=1758097711"
+  },
+  {
+    "id": "women-fit-and-flare-dark-blue-knee-length-dress",
+    "name": "Women Fit and Flare Dark Blue Knee Length Dress",
+    "price": 1527,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/3xl-dn648navy-prettyplus-by-desinoor-com-original-imah3xuuwguqawgz.jpg?v=1758097709"
+  },
+  {
+    "id": "women-bodycon-black-below-knee-dress",
+    "name": "Women Bodycon Black Below Knee Dress",
+    "price": 1539,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-badrss12791-sassafras-original-imahfrhfufnfvzjd.jpg?v=1758097709"
+  },
+  {
+    "id": "women-gown-blue-maxi-full-length-dress",
+    "name": "Women Gown Blue Maxi/Full Length Dress",
+    "price": 1907,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/3xl-33508328-bebe-original-imahd5yrggq4agux.jpg?v=1758097708"
+  },
+  {
+    "id": "women-maxi-multicolor-full-length-dress",
+    "name": "Women Maxi Multicolor Full Length Dress",
+    "price": 1989,
+    "category": "Clothing",
+    "subcategory": "Dresses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/4xl-sku-17-ella-rose-green-maxi-dress-abha-clothing-original-imahefcvgfhvzzvz.jpg?v=1758097707"
+  },
+  {
+    "id": "women-all-me-7-8-tights-50",
+    "name": "Women All Me 7/8 Tights",
+    "price": 2799,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "opt-st-hr-women-tights-49",
+    "name": "Opt St Hr Women Tights",
+    "price": 3599,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "hyrox-shapeluxe-tights-48",
+    "name": "HYROX SHAPELUXE Tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-universa-7-8-tights-47",
+    "name": "Women Universa 7/8 Tights",
+    "price": 4945,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "high-waisted-wide-leg-trousers-46",
+    "name": "High-Waisted Wide-Leg Trousers",
+    "price": 5995,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-s-leggings-with-pockets-45",
+    "name": "Women's Leggings with Pockets",
+    "price": 5495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "cloudspun-women-tights-44",
+    "name": "Cloudspun Women Tights",
+    "price": 4499,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "zenvy-high-waisted-leggings-43",
+    "name": "Zenvy High-Waisted Leggings",
+    "price": 5495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "asmc-tpr-ot-7-8-tights-42",
+    "name": "aSMC TPR OT 7/8 Tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-training-tights-40",
+    "name": "Women Training Tights",
+    "price": 2399,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "otr-aop-women-printed-tights-39",
+    "name": "Otr Aop Women Printed Tights",
+    "price": 3299,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-training-flared-tights-38",
+    "name": "Women Training Flared Tights",
+    "price": 3999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-running-tights-37",
+    "name": "Women Running Tights",
+    "price": 2199,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-running-high-rise-tights-36",
+    "name": "Women Running High Rise Tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-full-tights-35",
+    "name": "Women Full Tights",
+    "price": 4999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-allme-ess-flared-tights-34",
+    "name": "Women ALLME ESS Flared Tights",
+    "price": 3399,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "dri-fit-full-length-leggings-33",
+    "name": "Dri-FIT Full-Length Leggings",
+    "price": 3095,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "shapeluxe-women-tights-32",
+    "name": "Shapeluxe Women Tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-drycell-training-tights-31",
+    "name": "Women DryCell Training Tights",
+    "price": 2399,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-drycell-running-tights-30",
+    "name": "Women DryCell Running Tights",
+    "price": 2549,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "zenvy-full-length-leggings-29",
+    "name": "Zenvy Full-Length Leggings",
+    "price": 5495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "hyrox-essential-women-tights-28",
+    "name": "HYROX Essential Women Tights",
+    "price": 3999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-optime-2-0-7-8-tights-27",
+    "name": "Women Optime 2.0 7/8 Tights",
+    "price": 3299,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "zenvy-women-s-leggings-26",
+    "name": "Zenvy Women's Leggings",
+    "price": 5495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "high-waisted-7-8-leggings-25",
+    "name": "High-Waisted 7/8 Leggings",
+    "price": 4396,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "hyrox-women-high-rise-tights-24",
+    "name": "HYROX Women High-Rise Tights",
+    "price": 3999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "tech-fit-women-printed-tights-23",
+    "name": "Tech Fit Women Printed Tights",
+    "price": 2399,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "fast-swoosh-running-leggings-22",
+    "name": "Fast Swoosh  Running Leggings",
+    "price": 3695,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "zenvy-m-women-s-gentle-suppo-21",
+    "name": "Zenvy (M) Women's Gentle-Suppo",
+    "price": 4396,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-7-8-training-tights-20",
+    "name": "Women 7/8 Training Tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "one-women-s-leggings-19",
+    "name": "One Women's Leggings",
+    "price": 3495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "ankle-length-running-leggings-18",
+    "name": "Ankle Length Running Leggings",
+    "price": 2449,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "train-all-day-training-tights-16",
+    "name": "Train All Day Training Tights",
+    "price": 2799,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "universa-women-s-7-8-leggings-15",
+    "name": "Universa Women's 7/8 Leggings",
+    "price": 4396,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "asmc-yoga-tights-14",
+    "name": "aSMC Yoga Tights",
+    "price": 6049,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "universa-women-leggings-13",
+    "name": "Universa Women Leggings",
+    "price": 4396,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-run-velocity-aop-tight-12",
+    "name": "Women Run Velocity AOP Tight",
+    "price": 3999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": ""
+  },
+  {
+    "id": "women-w-fi-3s-tights-11",
+    "name": "Women W FI 3S Tights",
+    "price": 2199,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/7qx0wB0E_bd4cc6a8b98341508d50352902d48dc4.jpg?v=1757935171"
+  },
+  {
+    "id": "zenvy-rib-women-s-7-8-leggings-10",
+    "name": "Zenvy Rib Women's 7/8 Leggings",
+    "price": 4945,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/XUu9Ujrl_4f8230c203824947bb2080e03a4cad3e.jpg?v=1757935170"
+  },
+  {
+    "id": "women-training-7-8-leggings-9",
+    "name": "Women Training 7/8 Leggings",
+    "price": 2449,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/57fb86a1-855d-4469-a584-e643b62941f21726219833199-ADIDAS-Women-Tights-7821726219832708-1.jpg?v=1757935169"
+  },
+  {
+    "id": "velocity-women-running-tights-8",
+    "name": "VELOCITY Women Running Tights",
+    "price": 3499,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/vXMMrRbw_334154f5893a43d381568ead3f08d1d8.jpg?v=1757935168"
+  },
+  {
+    "id": "optime-stash-sports-leggings-7",
+    "name": "Optime Stash Sports Leggings",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/wRvZMqFh_63abac16303c40e09a0561e7ef9c4885.jpg?v=1757935167"
+  },
+  {
+    "id": "women-flared-leggings-6",
+    "name": "Women Flared Leggings",
+    "price": 4945,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/J9HCD0XR_0907beba40354083905392f581d2cd95.jpg?v=1757935167"
+  },
+  {
+    "id": "one-women-high-waist-leggings-5",
+    "name": "One Women High-Waist Leggings",
+    "price": 3495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/C9dexNfJ_eb82ce05b0484e8b8152d5c5f616d0d9.jpg?v=1757935166"
+  },
+  {
+    "id": "women-high-rise-sports-tights-4",
+    "name": "Women High rise Sports tights",
+    "price": 5999,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/QEglnOfH_b804845e377a4bb9b952e1ef4952f517.jpg?v=1757935164"
+  },
+  {
+    "id": "women-zenvy-leggings-3",
+    "name": "Women Zenvy Leggings",
+    "price": 5495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/eYJ3HxVd_774aac0b89d84e638bb5b627a9277cd9.jpg?v=1757935164"
+  },
+  {
+    "id": "one-high-waisted-leggings-2",
+    "name": "One High-Waisted Leggings",
+    "price": 3495,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/GS5UA0V0_2284fde2efa241bc8b48cdd0794a9c85.jpg?v=1757935163"
+  },
+  {
+    "id": "zenvy-women-s-flared-leggings-1",
+    "name": "Zenvy Women's Flared Leggings",
+    "price": 4945,
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/kNBpSI0A_00a7cb0ed0334128853910c074d5e952.jpg?v=1757935161"
+  },
+  {
+    "id": "711-women-slim-mid-rise-blue-jeans-39",
+    "name": "711 Women Slim Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-32971-0056-levi-s-original-imafnhtnnxzy4hbz.jpg?v=1757935005"
+  },
+  {
+    "id": "721-women-skinny-mid-rise-blue-jeans-38",
+    "name": "721 Women Skinny Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/27-24475-0156-levi-s-original-imagzcmws9qrzkwh.jpg?v=1757935005"
+  },
+  {
+    "id": "710-women-super-skinny-mid-rise-dark-blue-jeans-35",
+    "name": "710 Women Super Skinny Mid Rise Dark Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-21325-0170-levi-s-original-imafp85fhudhk5gs.jpg?v=1757935003"
+  },
+  {
+    "id": "women-regular-high-rise-blue-jeans-33",
+    "name": "Women Regular High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah46t3g8zhfj5d.jpg?v=1757935004"
+  },
+  {
+    "id": "ribcage-straight-ankle-women-regular-high-rise-blue-jea-32",
+    "name": "RIBCAGE STRAIGHT ANKLE Women Regular High Rise Blue Jea...",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/25-21942-0031-levi-s-original-imagvze9yssyw6he.jpg?v=1757935002"
+  },
+  {
+    "id": "women-loose-fit-mid-rise-blue-jeans-30",
+    "name": "Women Loose Fit Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah6jz8pczfxk9f.jpg?v=1757935001"
+  },
+  {
+    "id": "711-women-skinny-mid-rise-dark-blue-jeans-29",
+    "name": "711 Women Skinny Mid Rise Dark Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagzkbezbxfqwjb.jpg?v=1757935000"
+  },
+  {
+    "id": "women-slim-high-rise-blue-jeans-27",
+    "name": "Women Slim High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah6jz7gb47rzys.jpg?v=1757934999"
+  },
+  {
+    "id": "women-boot-leg-high-rise-blue-jeans-26",
+    "name": "Women Boot-Leg High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah46t35hewgudf.jpg?v=1757934998"
+  },
+  {
+    "id": "710-women-skinny-mid-rise-blue-jeans-25",
+    "name": "710 Women Skinny Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-59612-0000blue-levi-s-original-imafc9czzhmcagyk.jpg?v=1757934997"
+  },
+  {
+    "id": "women-boot-leg-high-rise-black-jeans-22",
+    "name": "Women Boot-Leg High Rise Black Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah82jjy7kddggv.jpg?v=1757934996"
+  },
+  {
+    "id": "725-women-boot-leg-high-rise-blue-jeans-20",
+    "name": "725 Women Boot-Leg High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imaheqk9pt4utu5t.jpg?v=1757934996"
+  },
+  {
+    "id": "710-women-super-skinny-mid-rise-blue-jeans-19",
+    "name": "710 Women Super Skinny Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagz8ybasbgzfsf.jpg?v=1757934995"
+  },
+  {
+    "id": "710-women-straight-fit-high-rise-blue-jeans-18",
+    "name": "710 Women Straight Fit High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah3kdfehfv7ysj.jpg?v=1757934994"
+  },
+  {
+    "id": "724-women-straight-fit-high-rise-blue-jeans-17",
+    "name": "724 Women Straight Fit High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfh47tdkstknh.jpg?v=1757934993"
+  },
+  {
+    "id": "women-straight-fit-mid-rise-blue-jeans-16",
+    "name": "Women Straight Fit Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-001uf-0007-levi-s-original-imahfu6yzbhgjgzf.jpg?v=1757934992"
+  },
+  {
+    "id": "mile-high-women-super-skinny-high-rise-blue-jeans-15",
+    "name": "Mile High Women Super Skinny High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/32-52641-0070-levi-s-original-imagyvepwcgryxpg.jpg?v=1757934991"
+  },
+  {
+    "id": "711-women-skinny-mid-rise-blue-jeans-14",
+    "name": "711 Women Skinny Mid Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/26-86830-0002-levi-s-original-imafu9yahfm2hazf.jpg?v=1757934990"
+  },
+  {
+    "id": "women-straight-fit-high-rise-blue-jeans-13",
+    "name": "Women Straight Fit High Rise Blue Jeans",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfh477jzgj2te.jpg?v=1757934989"
+  },
+  {
+    "id": "women-skinny-mid-rise-dark-blue-jeans-12",
+    "name": "Women Skinny Mid Rise Dark Blue Jeans",
+    "price": 3,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-a1awd125-tommy-hilfiger-original-imag6heyssqzazps.jpg?v=1757934988"
+  },
+  {
+    "id": "women-loose-fit-high-rise-blue-jeans-11",
+    "name": "Women Loose Fit High Rise Blue Jeans",
+    "price": 3,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah4ausy2psrq7c.jpg?v=1757934988"
+  },
+  {
+    "id": "women-skinny-low-rise-blue-jeans-10",
+    "name": "Women Skinny Low Rise Blue Jeans",
+    "price": 4,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-a8ajd102-tommy-hilfiger-original-imafhrnuzwdgyju4.jpg?v=1757934987"
+  },
+  {
+    "id": "women-slim-mid-rise-white-jeans-9",
+    "name": "Women Slim Mid Rise White Jeans",
+    "price": 4,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-a1awd122-tommy-hilfiger-original-imag72fzssmwnpjp.jpg?v=1757934986"
+  },
+  {
+    "id": "women-tapered-fit-mid-rise-white-jeans-8",
+    "name": "Women Tapered Fit Mid Rise White Jeans",
+    "price": 4,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-j2165021aa-calvin-klein-jeans-original-imag7a9hxjazsztv.jpg?v=1757934985"
+  },
+  {
+    "id": "women-skinny-high-rise-blue-jeans-6",
+    "name": "Women Skinny High Rise Blue Jeans",
+    "price": 4,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-j2171531aa-calvin-klein-jeans-original-imag6yzwa2huqzvj.jpg?v=1757934984"
+  },
+  {
+    "id": "women-skinny-low-rise-black-jeans-5",
+    "name": "Women Skinny Low Rise Black Jeans",
+    "price": 5,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-p9ajd121-tommy-hilfiger-original-imaff6e2pvk2zyqu.jpg?v=1757934983"
+  },
+  {
+    "id": "women-regular-mid-rise-blue-jeans-4",
+    "name": "Women Regular Mid Rise Blue Jeans",
+    "price": 5,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-j2164521a4-calvin-klein-jeans-original-imag6dy2hqdmjxmj.jpg?v=1757934982"
+  },
+  {
+    "id": "women-skinny-mid-rise-black-jeans-3",
+    "name": "Women Skinny Mid Rise Black Jeans",
+    "price": 5,
+    "category": "Clothing",
+    "subcategory": "Bottomwear",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/28-j2160311by-calvin-klein-jeans-original-imag6yzgcvtgzz6a.jpg?v=1757934981"
+  },
+  {
+    "id": "women-regular-fit-self-design-casual-shirt-32",
+    "name": "Women Regular Fit Self Design Casual Shirt",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-s25hwwt024-tommy-hilfiger-original-imahceyqvdhvxcnx.jpg?v=1757934867"
+  },
+  {
+    "id": "women-regular-fit-solid-casual-shirt-30",
+    "name": "Women Regular Fit Solid Casual Shirt",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/xxs-f24hwwt038-tommy-hilfiger-original-imah38jtergwmvzw.jpg?v=1757934865"
+  },
+  {
+    "id": "women-regular-fit-striped-spread-collar-casual-shirt-24",
+    "name": "Women Regular Fit Striped Spread Collar Casual Shirt",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/2xl-a9206-0013-levi-s-original-imahbzhyvvsqkf3d.jpg?v=1757934864"
+  },
+  {
+    "id": "women-regular-fit-embroidered-casual-shirt-19",
+    "name": "Women Regular Fit Embroidered Casual Shirt",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagy3qap7hhmvgf.jpg?v=1757934859"
+  },
+  {
+    "id": "women-regular-fit-color-block-spread-collar-casual-shir-13",
+    "name": "Women Regular Fit Color Block Spread Collar Casual Shir...",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/42-002vl-0004-levi-s-original-imah88bxujhzgfc9.jpg?v=1757934858"
+  },
+  {
+    "id": "women-regular-fit-self-design-spread-collar-casual-shir-12",
+    "name": "Women Regular Fit Self Design Spread Collar Casual Shir...",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah9jwhy9gm5hzz.jpg?v=1757934857"
+  },
+  {
+    "id": "women-regular-fit-printed-casual-shirt-11",
+    "name": "Women Regular Fit Printed Casual Shirt",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-p2ajw118-tommy-hilfiger-original-image86xzztwzb7e.jpg?v=1757934856"
+  },
+  {
+    "id": "women-regular-fit-solid-spread-collar-casual-shirt-10",
+    "name": "Women Regular Fit Solid Spread Collar Casual Shirt",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah3xx7b4zzcpzm.jpg?v=1757934855"
+  },
+  {
+    "id": "women-regular-fit-printed-spread-collar-casual-shirt-9",
+    "name": "Women Regular Fit Printed Spread Collar Casual Shirt",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah4cezvphcghef.jpg?v=1757934854"
+  },
+  {
+    "id": "women-boxy-fit-solid-spread-collar-casual-shirt-3",
+    "name": "Women Boxy Fit Solid Spread Collar Casual Shirt",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah82jkfhz9nfsz.jpg?v=1757934845"
+  },
+  {
+    "id": "women-comfort-fit-fit-solid-spread-collar-casual-shirt-2",
+    "name": "Women Comfort Fit Fit Solid Spread Collar Casual Shirt",
+    "price": 1,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-0027m-0011-levi-s-original-imahbzky2fvvkmmt.jpg?v=1757934844"
+  },
+  {
+    "id": "women-boxy-fit-floral-print-casual-shirt-1",
+    "name": "Women Boxy Fit Floral Print Casual Shirt",
+    "price": 2,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-p2ajw116-tommy-hilfiger-original-imageyhh4z5ycpzg.jpg?v=1757934843"
+  },
+  {
+    "id": "uv-protection-cat-eye-retro-square-rectangular-sungla-39",
+    "name": "UV Protection Cat-eye, Retro Square, Rectangular Sungla...",
+    "price": 217,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-size-uv-protection-cat-eye-rectangular-sunglasses-akayi-original-imahdfhvkscuqq4m.jpg?v=1757933951"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-54-37",
+    "name": "UV Protection Cat-eye Sunglasses (54)",
+    "price": 629,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-irs1094c3sg-irus-original-imahcy7jzgcsxszh.jpg?v=1757933950"
+  },
+  {
+    "id": "uv-protection-polarized-oval-round-sunglasses-free-s-36",
+    "name": "UV Protection, Polarized Oval, Round Sunglasses (Free S...",
+    "price": 181,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-round-combo-5-dannilo-original-imah5vchfnrxgggy.jpg?v=1757933949"
+  },
+  {
+    "id": "uv-protection-rectangular-sunglasses-52-35",
+    "name": "UV Protection Rectangular Sunglasses (52)",
+    "price": 174,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/medium-gold-black-karan-ar-rozti-original-imah2zgqdmzkjkhv.jpg?v=1757933948"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-free-size-34",
+    "name": "UV Protection Cat-eye Sunglasses (Free Size)",
+    "price": 198,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/medium-sewell-brown-11220-valwick-original-imahfzf7dhkqbfay.jpg?v=1757933947"
+  },
+  {
+    "id": "gradient-uv-protection-wayfarer-sunglasses-52-33",
+    "name": "Gradient, UV Protection Wayfarer Sunglasses (52)",
+    "price": 642,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imaheybyzbzq6fpg.jpg?v=1757933947"
+  },
+  {
+    "id": "gradient-aviator-sunglasses-55-32",
+    "name": "Gradient Aviator Sunglasses (55)",
+    "price": 2345,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/large-ids3026c2sg-idee-original-imahfeydjqqa9pz3.jpg?v=1757933946"
+  },
+  {
+    "id": "uv-protection-retro-square-sunglasses-55-31",
+    "name": "UV Protection Retro Square Sunglasses (55)",
+    "price": 417,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-rs27-rorce-original-imahefe2sgagwcmn.jpg?v=1757933945"
+  },
+  {
+    "id": "uv-protection-polarized-round-sunglasses-53-28",
+    "name": "UV Protection, Polarized Round Sunglasses (53)",
+    "price": 986,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-1114-c4-hexxa-original-imahdffvhww6ywsa.jpg?v=1757933944"
+  },
+  {
+    "id": "uv-protection-shield-sunglasses-free-size-26",
+    "name": "UV Protection Shield Sunglasses (Free Size)",
+    "price": 1070,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-size-nbp223bu2-fastrack-original-imahfezphvsnz25q.jpg?v=1757933943"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-55-25",
+    "name": "UV Protection Cat-eye Sunglasses (55)",
+    "price": 220,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-8450-black-piraso-original-imah7vxsws8jf47e.jpg?v=1757933942"
+  },
+  {
+    "id": "uv-protection-over-sized-sunglasses-60-23",
+    "name": "UV Protection Over-sized Sunglasses (60)",
+    "price": 277,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-5555-reddish-pink-piraso-original-imah4xg6rbuyjds8.jpg?v=1757933940"
+  },
+  {
+    "id": "by-lenskart-uv-protection-cat-eye-sunglasses-61-21",
+    "name": "by Lenskart UV Protection Cat-eye Sunglasses (61)",
+    "price": 850,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-209528-vincent-chase-original-imahyrrr2egxyt8f.jpg?v=1757933940"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-39-20",
+    "name": "UV Protection Cat-eye Sunglasses (39)",
+    "price": 198,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/12-cat-eye-spadeaces-original-imahdbmrvm67uhze.jpg?v=1757933939"
+  },
+  {
+    "id": "uv-protection-gradient-polarized-night-vision-other-19",
+    "name": "UV Protection, Gradient, Polarized, Night Vision, Other...",
+    "price": 137,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/fit-all-cateye-sunglasses-for-women-classic-vintage-high-pointed-original-imagwh5x5vcxgbfk.jpg?v=1757933938"
+  },
+  {
+    "id": "polarized-uv-protection-cat-eye-sunglasses-53-18",
+    "name": "Polarized, UV Protection Cat-eye Sunglasses (53)",
+    "price": 1389,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/s-215995-vincent-chase-original-imah4hk9zsytvrha.jpg?v=1757933937"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-56-17",
+    "name": "UV Protection Cat-eye Sunglasses (56)",
+    "price": 589,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-216011-vincent-chase-original-imah2v22zsbh4kdn.jpg?v=1757933936"
+  },
+  {
+    "id": "uv-protection-gradient-cat-eye-sunglasses-63-16",
+    "name": "UV Protection, Gradient Cat-eye Sunglasses (63)",
+    "price": 470,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-as-922-89-12324-aislin-original-imah7j23dtqgrcpn.jpg?v=1757933935"
+  },
+  {
+    "id": "uv-protection-others-cat-eye-sunglasses-47-15",
+    "name": "UV Protection, Others Cat-eye Sunglasses (47)",
+    "price": 182,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/90-76-hayden-haiza-original-imahftzzzfwstkss.jpg?v=1757933935"
+  },
+  {
+    "id": "gradient-uv-protection-rectangular-sunglasses-free-si-14",
+    "name": "Gradient, UV Protection Rectangular Sunglasses (Free Si...",
+    "price": 239,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-size-lw-1131-the-magnifique-original-imah2tw2swfaayde.jpg?v=1757933934"
+  },
+  {
+    "id": "uv-protection-cat-eye-sunglasses-60-13",
+    "name": "UV Protection Cat-eye Sunglasses (60)",
+    "price": 416,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-db-cat3-29-60021-dressberry-original-imah3gz7n8bwhjv4.jpg?v=1757933933"
+  },
+  {
+    "id": "uv-protection-gradient-oval-sunglasses-free-size-9",
+    "name": "UV Protection, Gradient Oval Sunglasses (Free Size)",
+    "price": 184,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/medium-611-gold-new-specs-original-imahcyt3pnumzhar.jpg?v=1757933931"
+  },
+  {
+    "id": "polarized-oval-sunglasses-free-size-8",
+    "name": "Polarized Oval Sunglasses (Free Size)",
+    "price": 180,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/free-size-oval-cateye-a-luins-original-imahdhpaan3fgpeg.jpg?v=1757933930"
+  },
+  {
+    "id": "uv-protection-gradient-round-sunglasses-60-7",
+    "name": "UV Protection, Gradient Round Sunglasses (60)",
+    "price": 495,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-8245-71-14365-aislin-original-imafrgpdzxzhtbgz.jpg?v=1757933930"
+  },
+  {
+    "id": "by-lenskart-uv-protection-cat-eye-sunglasses-60-6",
+    "name": "by Lenskart UV Protection Cat-eye Sunglasses (60)",
+    "price": 578,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-209520-vincent-chase-original-imahyq7j33jahgvz.jpg?v=1757933929"
+  },
+  {
+    "id": "uv-protection-mirrored-over-sized-sunglasses-64-5",
+    "name": "UV Protection, Mirrored Over-sized Sunglasses (64)",
+    "price": 495,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-as-8215-71-14357-aislin-original-imafrgzhs9xenyjy.jpg?v=1757933928"
+  },
+  {
+    "id": "uv-protection-retro-square-over-sized-sunglasses-62-4",
+    "name": "UV Protection Retro Square, Over-sized Sunglasses (62)",
+    "price": 398,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/as-80529-97-14865-l-aislin-original-imag4wf5zdzvj5cd.jpg?v=1757933927"
+  },
+  {
+    "id": "uv-protection-sunglass-3",
+    "name": "UV Protection Sunglass",
+    "price": 217,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/m-mt2033-gold-black-metronaut-original-imahfmhrgzvhwkqj.jpg?v=1757933926"
+  },
+  {
+    "id": "by-lenskart-polarized-uv-protection-round-sunglasses-2",
+    "name": "by Lenskart Polarized, UV Protection Round Sunglasses (...",
+    "price": 634,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/48-140453-vincent-chase-original-imah2wftwnxwe45y.jpg?v=1757933925"
+  },
+  {
+    "id": "by-lenskart-polarized-uv-protection-cat-eye-sunglasses-1",
+    "name": "by Lenskart Polarized, UV Protection Cat-eye Sunglasses...",
+    "price": 529,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/l-vc-s11470-vincent-chase-original-imahyq7j6t8gduv2.jpg?v=1757933924"
+  },
+  {
+    "id": "party-gold-silver-clutch-40",
+    "name": "Party Gold, Silver  Clutch",
+    "price": 980,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/moon-15-gold-n-silver-chini-moon-handbag-toobacraft-23-original-imahf78yckdrp7za.jpg?v=1757933814"
+  },
+  {
+    "id": "casual-grey-clutch-39",
+    "name": "Casual Grey  Clutch",
+    "price": 250,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/women-girls-pocket-card-cash-wallet-cute-purse-bear-card-wallet-original-imagwg3bkxxb9xwh.jpg?v=1757933812"
+  },
+  {
+    "id": "casual-formal-party-sports-grey-clutch-38",
+    "name": "Casual, Formal, Party, Sports Grey  Clutch",
+    "price": 374,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskbdnwnvn5d.jpg?v=1757933812"
+  },
+  {
+    "id": "casual-peach-clutch-37",
+    "name": "Casual Peach  Clutch",
+    "price": 302,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfz23jh7tkthh.jpg?v=1757933810"
+  },
+  {
+    "id": "party-maroon-clutch-regular-size-35",
+    "name": "Party Maroon  Clutch  - Regular Size",
+    "price": 628,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagz49fezhzfbwg.jpg?v=1757933810"
+  },
+  {
+    "id": "party-casual-red-clutch-34",
+    "name": "Party, Casual Red  Clutch",
+    "price": 607,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/party-clutch-perfect-for-special-occasions-17-clred-small-rose-original-imahf78zay5jcwuc.jpg?v=1757933809"
+  },
+  {
+    "id": "casual-formal-party-brown-clutch-regular-size-33",
+    "name": "Casual, Formal, Party Brown  Clutch  - Regular Size",
+    "price": 240,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/ladies-fashionable-hand-clutch-handbags-hand-wallet-purse-arfc-original-imahfxcj6gvtyze3.jpg?v=1757933807"
+  },
+  {
+    "id": "formal-tan-clutch-32",
+    "name": "Formal Tan  Clutch",
+    "price": 715,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/suede-leather-clutch-for-women-tan-cl29-clutch-the-wallet-store-original-imahfudxrzeughfz.jpg?v=1757933807"
+  },
+  {
+    "id": "casual-party-formal-blue-clutch-regular-size-31",
+    "name": "Casual, Party, Formal Blue  Clutch  - Regular Size",
+    "price": 295,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskkvanvfaqy.jpg?v=1757933806"
+  },
+  {
+    "id": "party-white-clutch-regular-size-30",
+    "name": "Party White  Clutch  - Regular Size",
+    "price": 297,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagsn6pfhzyhyes.jpg?v=1757933805"
+  },
+  {
+    "id": "casual-party-brown-clutch-29",
+    "name": "Casual, Party Brown  Clutch",
+    "price": 237,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskhb9hubp56.jpg?v=1757933804"
+  },
+  {
+    "id": "casual-party-formal-maroon-clutch-28",
+    "name": "Casual, Party, Formal Maroon  Clutch",
+    "price": 293,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskfnnv9q5xt.jpg?v=1757933803"
+  },
+  {
+    "id": "casual-party-formal-sports-maroon-clutch-27",
+    "name": "Casual, Party, Formal, Sports Maroon  Clutch",
+    "price": 285,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/women-s-yessnenza-twist-lock-clutch-wallet-mobile-purse-yfc-901-original-imahfpjzgfrhpdzk.jpg?v=1757933802"
+  },
+  {
+    "id": "party-white-pink-green-clutch-26",
+    "name": "Party White, Pink, Green  Clutch",
+    "price": 695,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/7x4-pearl-17-white-fabric-new-7x4-pearl-handbag-toobacraft-11-original-imahf79yugc8rgue.jpg?v=1757933801"
+  },
+  {
+    "id": "casual-formal-party-green-clutch-25",
+    "name": "Casual, Formal, Party Green  Clutch",
+    "price": 297,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagvfghf7dag9sz.jpg?v=1757933800"
+  },
+  {
+    "id": "party-gold-clutch-regular-size-23",
+    "name": "Party Gold  Clutch  - Regular Size",
+    "price": 286,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskbhvevjwav.jpg?v=1757933799"
+  },
+  {
+    "id": "party-gold-clutch-22",
+    "name": "Party Gold  Clutch",
+    "price": 1362,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/premium-women-casual-clutch-purse-cl-8617-sling-type-clutch-original-imahfz28qf6rzmq8.jpg?v=1757933797"
+  },
+  {
+    "id": "party-gold-clutch-mini-21",
+    "name": "Party Gold  Clutch  - Mini",
+    "price": 689,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/282-gold-sequence-necklace-6x4-clutch-toobacraft-original-imah6hdtwfgk6y7c.jpg?v=1757933797"
+  },
+  {
+    "id": "party-brown-clutch-19",
+    "name": "Party Brown  Clutch",
+    "price": 426,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/bronze-knot-curve-bronze-knot-curve-clutch-sling-bag-toobacraft-original-imaguk35nxgcqjvz.jpg?v=1757933796"
+  },
+  {
+    "id": "casual-blue-clutch-18",
+    "name": "Casual Blue  Clutch",
+    "price": 300,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/hand-clutch-gdu-015peacock-blue-hand-clutch-purse-alsu-original-imahaf4fv9zhfr5z.jpg?v=1757933794"
+  },
+  {
+    "id": "party-casual-formal-maroon-clutch-regular-size-17",
+    "name": "Party, Casual, Formal Maroon  Clutch  - Regular Size",
+    "price": 309,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/hand-clutch-premium-twist-lock-ldu-012maroon-hand-clutch-alsu-original-imah42hnhgghdfwr.jpg?v=1757933793"
+  },
+  {
+    "id": "casual-pink-clutch-regular-size-15",
+    "name": "Casual Pink  Clutch  - Regular Size",
+    "price": 339,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfspuzzsjyz3t.jpg?v=1757933792"
+  },
+  {
+    "id": "party-white-clutch-14",
+    "name": "Party White  Clutch",
+    "price": 491,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/double-ball-17-cl-1983-white-double-ball-handbag-toobacraft-11-original-imahf79ygxnszzgc.jpg?v=1757933791"
+  },
+  {
+    "id": "party-casual-formal-sports-gold-clutch-13",
+    "name": "Party, Casual, Formal, Sports Gold  Clutch",
+    "price": 290,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/handicraft-party-wear-hand-embroidered-box-clutch-bag-purse-for-original-imahekbzwep3ps6n.jpg?v=1757933790"
+  },
+  {
+    "id": "party-silver-clutch-12",
+    "name": "Party Silver  Clutch",
+    "price": 1679,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/silver-clutch-lwcc00315-clutch-lino-perros-original-imahfzfbnhmqphzz.jpg?v=1757933789"
+  },
+  {
+    "id": "casual-tan-clutch-11",
+    "name": "Casual Tan  Clutch",
+    "price": 232,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/stylish-hand-purse-for-women-stylish-hand-purse-for-women-original-imahfh9xjh2z9gcf.jpg?v=1757933788"
+  },
+  {
+    "id": "casual-blue-clutch-mini-10",
+    "name": "Casual Blue  Clutch  - Mini",
+    "price": 799,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imagtehfevufphpa.jpg?v=1757933787"
+  },
+  {
+    "id": "women-multicolor-artificial-leather-rfid-wallet-9",
+    "name": "Women Multicolor Artificial Leather RFID  Wallet",
+    "price": 333,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfspuushfjqdv.jpg?v=1757933786"
+  },
+  {
+    "id": "party-blue-clutch-5",
+    "name": "Party Blue  Clutch",
+    "price": 237,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/barolo-sling-bag-bg004-sling-bag-shoulder-bag-niara-original-imahfn5tvkgt3xs9.jpg?v=1757933780"
+  },
+  {
+    "id": "party-maroon-clutch-4",
+    "name": "Party Maroon  Clutch",
+    "price": 999,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahacxenxhffaf8.jpg?v=1757933780"
+  },
+  {
+    "id": "casual-pink-clutch-3",
+    "name": "Casual Pink  Clutch",
+    "price": 212,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskgt3p6gvvp.jpg?v=1757933779"
+  },
+  {
+    "id": "women-casual-blue-artificial-leather-wallet-2",
+    "name": "Women Casual Blue Artificial Leather Wallet",
+    "price": 639,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfse5haw9xwkn.jpg?v=1757933778"
+  },
+  {
+    "id": "casual-party-formal-maroon-clutch-regular-size-1",
+    "name": "Casual, Party, Formal Maroon  Clutch  - Regular Size",
+    "price": 334,
+    "category": "Accessories",
+    "subcategory": "Clutches",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskbzwpbrdgg.jpg?v=1757933777"
+  },
+  {
+    "id": "stylish-handbag-for-women-ladies-purse-tote-bag-water-40",
+    "name": "Stylish Handbag for women | Ladies Purse Tote Bag Water...",
+    "price": 239,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskfps3hnzna.jpg?v=1757933593"
+  },
+  {
+    "id": "women-green-handbag-39",
+    "name": "Women Green Handbag",
+    "price": 335,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskv5x4sw5hy.jpg?v=1757933593"
+  },
+  {
+    "id": "women-red-beige-satchel-38",
+    "name": "Women Red, Beige Satchel",
+    "price": 1899,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahftr83zyn4gba.jpg?v=1757933592"
+  },
+  {
+    "id": "women-maroon-handbag-37",
+    "name": "Women Maroon Handbag",
+    "price": 430,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskujtf95scj.jpg?v=1757933591"
+  },
+  {
+    "id": "white-gold-women-sling-bag-sling-bag-women-stylish-lad-35",
+    "name": "White, Gold Women Sling Bag sling bag women stylish lad...",
+    "price": 204,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/sling-bag-women-stylish-ladies-purse-for-girls-1-15-siter-dana-original-imahfnctqzqrnywd.jpg?v=1757933590"
+  },
+  {
+    "id": "white-women-sling-bag-trendy-for-women-34",
+    "name": "White Women Sling Bag Trendy for women",
+    "price": 235,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsmvwnfrrqka.jpg?v=1757933589"
+  },
+  {
+    "id": "tan-women-sling-bag-trendy-canvas-hand-for-women-33",
+    "name": "Tan Women Sling Bag Trendy Canvas Hand for women",
+    "price": 260,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/trendy-canvas-bag-for-women-single-handle-messenger-bag-haveglam-original-imahfq9gdmzpgnfw.jpg?v=1757933587"
+  },
+  {
+    "id": "women-brown-handbag-32",
+    "name": "Women Brown Handbag",
+    "price": 430,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/hand-bags-women-30-0-pcc-106-shoulder-bag-clovia-fashion-22-original-imah2aszphcazevu.jpg?v=1757933587"
+  },
+  {
+    "id": "brown-women-sling-bag-women-s-with-shoulder-strap-and-8-31",
+    "name": "Brown Women Sling Bag women's with shoulder strap and 8...",
+    "price": 348,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskw34zv3qxg.jpg?v=1757933586"
+  },
+  {
+    "id": "women-green-tote-extra-spacious-30",
+    "name": "Women Green Tote - Extra Spacious",
+    "price": 729,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah5caf2zbqxnyy.jpg?v=1757933585"
+  },
+  {
+    "id": "women-black-messenger-bag-29",
+    "name": "Women Black Messenger Bag",
+    "price": 189,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/trendy-messenger-handbags-for-womens-14-0-black-01-messenger-bag-original-imahf8rhvtkz8zuv.jpg?v=1757933584"
+  },
+  {
+    "id": "women-multicolor-handbag-extra-spacious-27",
+    "name": "Women Multicolor Handbag - Extra Spacious",
+    "price": 1699,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskrfxczpvhx.jpg?v=1757933584"
+  },
+  {
+    "id": "brown-gold-women-sling-bag-buckle-sling-in-mud-brown-26",
+    "name": "Brown, Gold Women Sling Bag Buckle Sling In Mud Brown",
+    "price": 333,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfz238eswzvgj.jpg?v=1757933582"
+  },
+  {
+    "id": "small-10-l-backpack-attractive-women-s-traveling-bag-25",
+    "name": "Small 10 L Backpack Attractive Women's Traveling bag",
+    "price": 373,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskfgsvam3sn.jpg?v=1757933582"
+  },
+  {
+    "id": "women-beige-shoulder-bag-24",
+    "name": "Women Beige Shoulder Bag",
+    "price": 238,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskwzawmcxc9.jpg?v=1757933581"
+  },
+  {
+    "id": "women-beige-tote-23",
+    "name": "Women Beige Tote",
+    "price": 436,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsksaazyfmuc.jpg?v=1757933580"
+  },
+  {
+    "id": "women-green-brown-shoulder-bag-22",
+    "name": "Women Green, Brown Shoulder Bag",
+    "price": 741,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsktwuzm7gjg.jpg?v=1757933579"
+  },
+  {
+    "id": "green-women-sling-bag-women-s-sling-cross-body-bags-wit-21",
+    "name": "Green Women Sling Bag Women's Sling Cross-Body Bags Wit...",
+    "price": 350,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/women-s-sling-cross-body-bags-with-adjustable-shoulder-strap-3-original-imahyxcdh3taeqxr.jpg?v=1757933578"
+  },
+  {
+    "id": "brown-women-sling-bag-trendy-korean-style-20",
+    "name": "Brown Women Sling Bag Trendy Korean style",
+    "price": 247,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfz23eutaghvb.jpg?v=1757933577"
+  },
+  {
+    "id": "women-tan-tote-19",
+    "name": "Women Tan Tote",
+    "price": 937,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/elegant-pu-leather-bag-combo-spacious-stylish-durable-38-0-long-original-imahfsebzxec3hda.jpg?v=1757933576"
+  },
+  {
+    "id": "women-multicolor-handbag-18",
+    "name": "Women Multicolor Handbag",
+    "price": 295,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/tote-bag-with-leather-handles-embroidery-printed-handbag-with-original-imahdemep2parhvz.jpg?v=1757933575"
+  },
+  {
+    "id": "women-white-satchel-17",
+    "name": "Women White Satchel",
+    "price": 1289,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah5ca26bctmrqv.jpg?v=1757933574"
+  },
+  {
+    "id": "women-black-shoulder-bag-15",
+    "name": "Women Black Shoulder Bag",
+    "price": 400,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskwycjhd9z5.jpg?v=1757933573"
+  },
+  {
+    "id": "small-10-l-backpack-fancy-leather-stylish-premium-backp-14",
+    "name": "Small 10 L Backpack Fancy Leather Stylish Premium Backp...",
+    "price": 348,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/6-fancy-leather-stylish-premium-backpack-for-women-girls-school-original-imahfqmdyxnkbuns.jpg?v=1757933572"
+  },
+  {
+    "id": "women-maroon-hand-held-bag-13",
+    "name": "Women Maroon Hand-held Bag",
+    "price": 195,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskwhwaykgsu.jpg?v=1757933571"
+  },
+  {
+    "id": "women-beige-black-satchel-12",
+    "name": "Women Beige, Black Satchel",
+    "price": 1899,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsktmskcf2sd.jpg?v=1757933571"
+  },
+  {
+    "id": "women-black-satchel-regular-size-11",
+    "name": "Women Black Satchel - Regular Size",
+    "price": 1389,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imah4npxjgznpjcn.jpg?v=1757933569"
+  },
+  {
+    "id": "women-maroon-beige-shoulder-bag-10",
+    "name": "Women Maroon, Beige Shoulder Bag",
+    "price": 398,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfsku3trenfg6.jpg?v=1757933569"
+  },
+  {
+    "id": "women-brown-messenger-bag-9",
+    "name": "Women Brown Messenger Bag",
+    "price": 184,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahfskuxztkkpnu.jpg?v=1757933568"
+  },
+  {
+    "id": "women-green-white-handbag-8",
+    "name": "Women Green, White Handbag",
+    "price": 283,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/handbag-sv-1-6-0-handbag-sv-2-handbag-ssazu-11-0-original-imahfebfkjf3hjg4.jpg?v=1757933567"
+  },
+  {
+    "id": "women-blue-shoulder-bag-7",
+    "name": "Women Blue Shoulder Bag",
+    "price": 749,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/plush-halfmoon-bag-9210003-shoulder-bag-puma-original-imah6whxmjss99fz.jpg?v=1757933566"
+  },
+  {
+    "id": "women-brown-shoulder-bag-6",
+    "name": "Women Brown Shoulder Bag",
+    "price": 423,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/hand-bags-women-i-bags-for-women-28-pcpb-103-shoulder-bag-clovia-original-imahemq58qkzqw2u.jpg?v=1757933564"
+  },
+  {
+    "id": "women-tan-hobo-5",
+    "name": "Women Tan Hobo",
+    "price": 1259,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/women-pu-hobo-shoulder-bags-13-lbhbpu354t-db-hobo-dressberry-30-original-imah2yqwaedkddeg.jpg?v=1757933564"
+  },
+  {
+    "id": "women-white-shoulder-bag-4",
+    "name": "Women White Shoulder Bag",
+    "price": 672,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/handbag-46-13064066-shoulder-bag-anouk-35-original-imahda8hxg83wbhq.jpg?v=1757933563"
+  },
+  {
+    "id": "women-black-handbag-2",
+    "name": "Women Black Handbag",
+    "price": 1699,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/original-imahftr8rc4kxp7e.jpg?v=1757933561"
+  },
+  {
+    "id": "multicolor-women-sling-bag-women-s-sling-body-bags-wit-1",
+    "name": "Multicolor Women Sling Bag Women's Sling -Body Bags Wit...",
+    "price": 349,
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/women-s-sling-cross-body-bags-with-adjustable-shoulder-strap-3-original-imahyxcaum5wpg6d.jpg?v=1757933561"
+  },
+  {
+    "id": "DREEYTUZVH3ZZNAX",
+    "name": "Jiiah Women's Sheath Dress",
+    "price": 734,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9HUDJXFF2TFH",
+    "name": "Indibox Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE25GGZVGHXHYG",
+    "name": "My Addiction Women's A-line Dress",
+    "price": 779,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4ZYTZ3KX9PUH",
+    "name": "Hugo Chavez Women's A-line Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9HY95VEPSVBG",
+    "name": "Londonhouze Women's Bandage Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAW2FTWYNF7UQ",
+    "name": "Kiosha Women's Shift Dress",
+    "price": 602,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2RUNXZFKGGFZ",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 897,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE92H8MWPGHHHB",
+    "name": "Kasturi Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEA4DUZHUQASHP",
+    "name": "MSMB Women's A-line Dress",
+    "price": 909,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPNWA5ZBQ7",
+    "name": "Inmark Women's A-line Dress",
+    "price": 658,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9G8CS8FAJ2GH",
+    "name": "La Stella Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE978EWXFTHQHW",
+    "name": "Kaxiaa Women's Layered Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEARMHZXDW9B3V",
+    "name": "Her Grace Women's A-line Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEABATS5YMYF5A",
+    "name": "Kashana Fashions Women's A-line Dress",
+    "price": 690,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVP64YG7HTYJY",
+    "name": "Ladybug Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5VWCRGECZRXZ",
+    "name": "Martini Women's Sheath Dress",
+    "price": 990,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZPX3Y3HSV9EG",
+    "name": "Miss Chase Women's High Low Dress",
+    "price": 929,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4V9ZYNGWHTGG",
+    "name": "Jiiah Women's Shift Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDXGQEHEMCBXGV",
+    "name": "Ladybug Women's Layered Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE93UZUFGJCVBE",
+    "name": "Lady Stark Women's Gathered Dress",
+    "price": 690,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDXGQEAYDGHZVZ",
+    "name": "Ladybug Women's Gathered Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GUQZJHUPYJS",
+    "name": "Latin Quarters Women's Gathered Dress",
+    "price": 960,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE98ASFNXZF8QT",
+    "name": "Limerence Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDXGQDZPEWPGQU",
+    "name": "Ladybug Women's Layered Dress",
+    "price": 909,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8UGV4TPYFQH6",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5C9M8MKHUQV8",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE64PGD8YSWH9K",
+    "name": "Motif Women's A-line Dress",
+    "price": 930,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPXG5TDFCR",
+    "name": "Inmark Women's Empire Waist Dress",
+    "price": 718,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZZN2ZZEZKQMX",
+    "name": "La Zoire Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBRD4BNGGSWSC",
+    "name": "Lifestyle Preview Women's Gathered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7UCDU7JASMGR",
+    "name": "HUGO CHAVEZ Women's Bandage Dress",
+    "price": 777,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4CYTN7FDZQHH",
+    "name": "Meiro Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZADCAYGQUEG",
+    "name": "Kaira Women's Bandage Dress",
+    "price": 730,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZT5WGMYXBSWY",
+    "name": "IDK Woman Women's Shift Dress",
+    "price": 898,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7FT8HF9P5HCC",
+    "name": "Miss India Women's Shift Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAGZFZZFVDCNN",
+    "name": "Mayra Women's Maxi Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDS7SAVKTAZE96",
+    "name": "My Addiction Women's Sheath Dress",
+    "price": 719,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE3Z8YHYSFCWTZ",
+    "name": "Hermosear Women's Peplum Dress",
+    "price": 789,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8DTR3JRW3DND",
+    "name": "Karyn Women's A-line Dress",
+    "price": 669,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBG9BTM4R4WUJ",
+    "name": "Kiosha Women's A-line Dress",
+    "price": 696,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYJZ7RH39FZ9H",
+    "name": "Hugo Chavez Women's High Low Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDXGQEXWHQBATG",
+    "name": "Ladybug Women's Layered Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE26VHUFEGXXNM",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 640,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAMCBFCGUZZKZ",
+    "name": "Koma Store Women's Shift Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVGBGWKSAAVVG",
+    "name": "Miss Chase Women's Sheath Dress",
+    "price": 680,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEARMHWMVYQR45",
+    "name": "Her Grace Women's A-line Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBDE8NWZNJJZE",
+    "name": "Jaipur Craft Shop Women's Empire Waist Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNTG6KXD77",
+    "name": "Maggie Women's Maxi Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-mg258-maggie-42-original-imaechwwhggdckwg.jpg?v=1757841472"
+  },
+  {
+    "id": "DREE88KMCGFCEHJR",
+    "name": "Mayra Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE484RTSHA9TQH",
+    "name": "I Am For You Women's Sheath Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE87ESGZM4KEJF",
+    "name": "Honey by Pantaloons Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBN4SUJFGYTNY",
+    "name": "Kwardrobe Women's Sheath Dress",
+    "price": 805,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE88DFXJXCYPGF",
+    "name": "Meiro Women's Sheath Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBD64ZVMYY8S2",
+    "name": "Loco En Cabeza Women's Shift Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FH9VMKCVGKN",
+    "name": "L'Elegantae Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECGQ8W5SEY7PB",
+    "name": "Mayra Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDSUZWUZMYFJMF",
+    "name": "Ladybug Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAHF5XYVZYBWH",
+    "name": "Label VR Women's A-line Dress",
+    "price": 909,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE62Q4PNZXGYNZ",
+    "name": "Madaam Women's Shift Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBZB5XEMEEF3Z",
+    "name": "Kashana Women's A-line Dress",
+    "price": 690,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8G3HZWN58SRH",
+    "name": "Ladybug Women's Shift Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZT5WZVYKN8JY",
+    "name": "IDK Woman Women's Sheath Dress",
+    "price": 898,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBG9AQKX8FHUX",
+    "name": "L'appel Du Vide Women's Shift Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7TACGGZQYTHZ",
+    "name": "Love From India Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAGSYW6SCC66B",
+    "name": "Mayra Women's High Low Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6YZZQEQDK525",
+    "name": "Meira Women's A-line Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB5WFXRNKPJQB",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBFF5US8JFVZY",
+    "name": "Kcrimson Women's A-line Dress",
+    "price": 698,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5M4Z4YKVRTGR",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPZG25JH28",
+    "name": "Inmark Women's Empire Waist Dress",
+    "price": 658,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2ZMUBG4D4JZS",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFG6HR8AV8H96",
+    "name": "Indi Bargain Women's Maxi Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE3D2NTZXV6JSZ",
+    "name": "Ishin Women's Maxi Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8AHXBEQN43BA",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDXXNFYCD2VEXN",
+    "name": "Karishma Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAKZWTDF22V5R",
+    "name": "Meish Women's Sheath Dress",
+    "price": 764,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "TOPEC89WEGZXSTDX",
+    "name": "Martini Party Sleeveless Solid Women's Top",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-mart1522-martini-m-original-imaec36ffkp6twza.jpg?v=1757841450"
+  },
+  {
+    "id": "DREE63YVCVSYZAGZ",
+    "name": "Motif Women's A-line Dress",
+    "price": 885,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2HZSUCGV28BW",
+    "name": "Meiro Women's Shift Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVC24AYMXGAED",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 839,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/mc-ss-13-ts-01-01-82-miss-chase-xs-original-imadvc2wh3ujzrru.jpg?v=1757841449"
+  },
+  {
+    "id": "DREE8UJZDQYAHEF4",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9AGTUVB3VZBA",
+    "name": "Inblue Fashions Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9QY9NFZ2J7RD",
+    "name": "Karyn Women's High Low Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3XMJTZBAG",
+    "name": "Hugo Chavez Women's Sheath Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-hc1611dupq-hugo-chavez-xl-original-imaeaszassymtm3w.jpg?v=1757841445"
+  },
+  {
+    "id": "DREE6WXSHYJ9ZJEH",
+    "name": "Lady Stark Women's Shift Dress",
+    "price": 629,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDTQC9UCHXMQDF",
+    "name": "Ladybug Women's Bandage Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEA7P9ZBVZGDYZ",
+    "name": "Just Wow Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEF5XDVZBZMYGK",
+    "name": "Meiro Women's Shift Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECHGKZKG6NTX6",
+    "name": "Kirti's Women's A-line Dress",
+    "price": 709,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBFDWNQSGF3CZ",
+    "name": "Kasturi Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4YVSX4N6FNVH",
+    "name": "Lady Stark Women's High Low Dress",
+    "price": 829,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4HBDGGCHFRXK",
+    "name": "Maya apparels Women's A-line Dress",
+    "price": 650,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEC8ASB7ZKCQGG",
+    "name": "Majori Women's A-line Dress",
+    "price": 840,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3WF3WZM5W",
+    "name": "Hugo Chavez Women's Sheath Dress",
+    "price": 797,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEA4DTCKTY3GJZ",
+    "name": "MSMB Women's Shift Dress",
+    "price": 909,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYYFSRJVG8XYE",
+    "name": "La Zoire Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBG7GWYHRYSQX",
+    "name": "Kasturi Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE86ATJ2HY7ZFG",
+    "name": "Kwardrobe Women's Shift Dress",
+    "price": 839,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5M4ZXSC7GRCB",
+    "name": "Indi Bargain Women's High Low Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECMGFWVZMQWMM",
+    "name": "Hermosear Women's Maxi Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2HZRJBXAVNHZ",
+    "name": "Meiro Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEATN8XNXRY6EY",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECEFSFHNGMSZN",
+    "name": "Jiiah Women's Sheath Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBQF7EBNSPMG5",
+    "name": "Kaxiaa Women's Gathered Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFG6HVJMSHDFF",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2SZ4GMNSCZCM",
+    "name": "Kyma Women's Maxi Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE3WY2MKZ35TZR",
+    "name": "Indiatrendzs Women's Gathered Dress",
+    "price": 612,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECACWVFWUG5P2",
+    "name": "Legona Women's Sheath Dress",
+    "price": 849,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4BHHQKZSNPNG",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 720,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/mcaw14d02-82-64-miss-chase-xl-original-imae4abzqzwuawh4.jpg?v=1757841429"
+  },
+  {
+    "id": "DREEATN9NFCHNWSH",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-hc1630-hugo-chavez-l-original-imaeaszawrye6jfz.jpg?v=1757841427"
+  },
+  {
+    "id": "DREEAHRFZPSGAF7N",
+    "name": "Kamakshi Krafts Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREED87SY2EKYB87",
+    "name": "India Inc Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECBJGYS4KV2HT",
+    "name": "Kasturi Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-kasg171-kasturi-s-original-imaecbc2sj4j9mzt.jpg?v=1757841426"
+  },
+  {
+    "id": "DREEBSFYMUHT9NJX",
+    "name": "LADY STARK Women's Maxi Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE33UPZYSYERHX",
+    "name": "Jaipur Kala Kendra Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5E8ZVTNEJ4AU",
+    "name": "La Arista Women's A-line Dress",
+    "price": 779,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2HZSZGGGFS4M",
+    "name": "Meiro Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE978EGZCF7DX8",
+    "name": "Kaxiaa Women's Shift Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9ZYASPBJTFEZ",
+    "name": "Meraki Women's Maxi Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZPF6H247UDF",
+    "name": "Holidae Women's High Low Dress",
+    "price": 938,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYJTWYH4WTCPR",
+    "name": "Kytes Women's Layered Dress",
+    "price": 698,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBNG3PHZZ3PKY",
+    "name": "L'appel Du Vide Women's Sheath Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECGQ8XDT5QSFA",
+    "name": "Mayra Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEA4DUZWJZQNEU",
+    "name": "MSMB Women's Shift Dress",
+    "price": 909,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6VTRBEX44KBP",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6BX5XNMBHGWZ",
+    "name": "Mona Vora Women's A-line Dress",
+    "price": 750,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GUQG4WMVEN7",
+    "name": "Latin Quarters Women's Gathered Dress",
+    "price": 840,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8RTHV24NKRJS",
+    "name": "Ishin Designer Studio Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBCF89BPFGHGD",
+    "name": "Jaipur Craft Shop Women's Empire Waist Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNMNBWJUMX",
+    "name": "Maggie Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZ4HUYXZK872",
+    "name": "Mariemillie Women's High Low Dress",
+    "price": 898,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5M4ZGQHEQQU7",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2J3FEARC9QUN",
+    "name": "Indi Bargain Women's Gathered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE87GTZNUGNYP9",
+    "name": "Meiro Women's High Low Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7MGNTWZAV2VC",
+    "name": "Miss India Women's Shift Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3JNKZDGDM",
+    "name": "Hugo Chavez Women's A-line Dress",
+    "price": 739,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9HZGGRRHS2SW",
+    "name": "Indiatrendzs Women's A-line Dress",
+    "price": 659,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-f-stok-562-indiatrendzs-5xl-original-imae9hdzfwmzrjhx.jpg?v=1757841407"
+  },
+  {
+    "id": "DREE6DPHG6R4TWRZ",
+    "name": "Martini Women's Gathered Dress",
+    "price": 686,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE63YVZCK4JGM7",
+    "name": "Motif Women's A-line Dress",
+    "price": 870,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9G8CPJZD3FQY",
+    "name": "La Stella Women's Shift Dress",
+    "price": 979,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBXPCSAAPXUYT",
+    "name": "Honey by Pantaloons Women's A-line Dress",
+    "price": 779,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVC24FEG3PFGG",
+    "name": "Miss Chase Women's Sheath Dress",
+    "price": 659,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMEZPBWRCFY",
+    "name": "Kamakshi Krafts Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5ZCFSBQ3HPQM",
+    "name": "Indi Bargain Women's Maxi Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GTGWZHJ5GMH",
+    "name": "Latin Quarters Women's Shift Dress",
+    "price": 796,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEY9PFYAWYTCHK",
+    "name": "La Arista Women's Peplum Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE98ASSKDWEZSR",
+    "name": "Limerence Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAHARVQVBWQJC",
+    "name": "LondonHouze Women's Sheath Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9CRGYBUGHGZG",
+    "name": "Meira Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5C9MGHCZZW9S",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-103brown-indi-bargain-free-original-imae5c4zdmtqe9qu.jpg?v=1757841400"
+  },
+  {
+    "id": "DREE94JYGBPWMQ67",
+    "name": "Lady Heart Women's A-line Dress",
+    "price": 925,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE87GTNEFY272S",
+    "name": "Meiro Women's Peplum Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9HY9TRSHZHRP",
+    "name": "Londonhouze Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB79FYDHVT5U9",
+    "name": "Kaamastra Women's Bandage Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECT3MPFDCTE7P",
+    "name": "Hoowks Trendz Women's Shift Dress",
+    "price": 950,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FZ3TSQF29KS",
+    "name": "Instacrush Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8UGV5YEBQKJS",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3W4GCYENW",
+    "name": "Hugo Chavez Women's Bandage Dress",
+    "price": 797,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZPX3WCZ2GKGH",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDWYJ9NYYYTKZD",
+    "name": "Hermosear Women's Empire Waist Dress",
+    "price": 795,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECHMGM7Y4YEDK",
+    "name": "India Inc Women's Maxi Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFYYFU2SPDAZS",
+    "name": "Meira Women's Maxi Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZZVYPUS4UDYA",
+    "name": "Ladybug Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAY5YCZ3WYSMD",
+    "name": "Indiatrendzs Women's Maxi Dress",
+    "price": 648,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYRF9YZYRFPYT",
+    "name": "Meee Women's Shift Dress",
+    "price": 647,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE3HGEK7VH4ZWP",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8Z6DWCNSVSJS",
+    "name": "Insense by Shoppers Stop Women's Maxi Dress",
+    "price": 0,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE46ZEHAFQ2EUW",
+    "name": "Max Women's Empire Waist Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8H6N5PZSQFE7",
+    "name": "Inmark Women's A-line Dress",
+    "price": 658,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6ZCHWDWFWGGS",
+    "name": "Jaipur Kala Kendra Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9EHEWXZYSCDU",
+    "name": "Maggie Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZHYUNBFXRK3H",
+    "name": "Karishma Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNWCGEMQYP",
+    "name": "Maggie Women's Maxi Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3VAX3GY9Y",
+    "name": "Hugo Chavez Women's Sheath Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-hc1594dupq-hugo-chavez-xxl-original-imaeaszazcgrv6f5.jpg?v=1757841385"
+  },
+  {
+    "id": "DREE8FH9ZSJJ5YHF",
+    "name": "L'Elegantae Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWR542TYSH5",
+    "name": "Latin Quarters Women's Shift Dress",
+    "price": 756,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBPE8ERZCYPNA",
+    "name": "Juniper Women's Empire Waist Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GTGW5GAX4GZ",
+    "name": "Latin Quarters Women's A-line Dress",
+    "price": 860,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAGZYZRQJHSFE",
+    "name": "Kasturi Women's Gathered Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9R3RXGYMEYXU",
+    "name": "House Of Tantrums Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBMGMTXPQEAHZ",
+    "name": "L'appel Du Vide Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBQBXZVUJQTQQ",
+    "name": "Heart Made Women's Gathered Dress",
+    "price": 750,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE36FNVWHKJQG2",
+    "name": "Mayra Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECGQ8Y4WC3QU5",
+    "name": "Mayra Women's Maxi Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZZVYZB4V9DGN",
+    "name": "Ladybug Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6D3EH72SVHZH",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDQW5KQHTJGA2G",
+    "name": "Identiti Women's Layered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDP3PEYZDTZ",
+    "name": "Inmark Women's Empire Waist Dress",
+    "price": 718,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZT5XUWMK2MJ9",
+    "name": "IDK Woman Women's Shift Dress",
+    "price": 958,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBMGNXJWYBEKS",
+    "name": "L'appel Du Vide Women's Shift Dress",
+    "price": 0,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAHARZGWGJGHG",
+    "name": "LondonHouze Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6BX5PH7GWZAM",
+    "name": "Mona Vora Women's A-line Dress",
+    "price": 750,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6D3EXMS7DAZH",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6D3EAYAHMAPE",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3ZTQGWGJ8",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZ4HZMZ4GWJR",
+    "name": "Mariemillie Women's Maxi Dress",
+    "price": 973,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8JUHY9YPVBFG",
+    "name": "Mayra Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZHMPSX9JX7N",
+    "name": "Miss Grace Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECK4GKG4FNNRS",
+    "name": "India Inc Women's Maxi Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDV5CVNGUJZYVS",
+    "name": "I Am For You Women's A-line Dress",
+    "price": 675,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECT3MQQ3R9CVY",
+    "name": "Hoowks Trendz Women's Shift Dress",
+    "price": 950,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5M4ZTEFMF4W5",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8XZBYQGFY3UH",
+    "name": "Motif Women's A-line Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE92AZVUY9RHZG",
+    "name": "Ishin Women's Layered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDS7SAYK2DHZXA",
+    "name": "My Addiction Women's Sheath Dress",
+    "price": 719,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBQF7QMZVYNMB",
+    "name": "Kaxiaa Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZADFS2BYSY5",
+    "name": "Kaira Women's Bandage Dress",
+    "price": 930,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9G8BU7547PTT",
+    "name": "La Stella Women's Shift Dress",
+    "price": 979,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDUDJKYY8PFJJZ",
+    "name": "Latin Quarters Women's Shift Dress",
+    "price": 796,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lqd3574yellow-latin-quarters-m-original-imadv8hhzudqy8f3.jpg?v=1757841359"
+  },
+  {
+    "id": "DREE6ZCHWMYTPCVS",
+    "name": "Jaipur Kala Kendra Women's A-line Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBG9BVE3UKSST",
+    "name": "Kiosha Women's A-line Dress",
+    "price": 696,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE2HZRSBUVT6CJ",
+    "name": "Meiro Women's Shift Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE88KNZCHEBWSM",
+    "name": "Mayra Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBASYTTAK7FRP",
+    "name": "Hermosear Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDQTKGZZBVH68X",
+    "name": "Ladybug Women's Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBRD4HT5XNDPR",
+    "name": "Lifestyle Preview Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8AQXPWYHDYGR",
+    "name": "Hugo Chavez Women's Peplum Dress",
+    "price": 897,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5TGRJWKBAURG",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 760,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4PY5Z7Z6HNTP",
+    "name": "Hugo Chavez Women's Bandage Dress",
+    "price": 797,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWRAYKKFBQQ",
+    "name": "Latin Quarters Women's A-line Dress",
+    "price": 876,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBD64YRVSEBWU",
+    "name": "Loco En Cabeza Women's Layered Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNACW7K73W",
+    "name": "Maggie Women's Gathered Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAF9GUWAY8DZS",
+    "name": "Hugo Chavez Women's A-line Dress",
+    "price": 757,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAY8QYVQ6KWBE",
+    "name": "India Inc Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDUA8QVGCSXWAV",
+    "name": "Ladybug Women's Shift Dress",
+    "price": 839,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7M75WMJCGDQY",
+    "name": "Label VR Women's Gathered Dress",
+    "price": 659,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE43HFHSSMAZS8",
+    "name": "Meraki Women's A-line Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZPX39ARFDBGH",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 640,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9Q9UMVPHAAM4",
+    "name": "Instinct Women's A-line Dress",
+    "price": 630,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9MFS27JGYEYZ",
+    "name": "Indiatrendzs Women's Gathered Dress",
+    "price": 755,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVC24VGNSAKFZ",
+    "name": "Miss Chase Women's High Low Dress",
+    "price": 620,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9Q5XTZXZ4G3S",
+    "name": "Msons Women's A-line Dress",
+    "price": 742,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8SXG3JHPGKZA",
+    "name": "India Inc Women's Empire Waist Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE89GHBJZZBGFZ",
+    "name": "Ladybug Women's Shift Dress",
+    "price": 849,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEARU9CNFR3GZZ",
+    "name": "Magnetic Designs Women's Maxi Dress",
+    "price": 769,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GUQUWUHCWEJ",
+    "name": "Latin Quarters Women's A-line Dress",
+    "price": 796,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7G2FXHSVQEG8",
+    "name": "Miss India Women's Gathered Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPXFYZMHGX",
+    "name": "Inmark Women's Empire Waist Dress",
+    "price": 778,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPZWYUGDSN",
+    "name": "Inmark Women's A-line Dress",
+    "price": 658,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYBUWQ4BWGKZG",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 680,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6YHWZMYWC6DC",
+    "name": "Imara Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8UGV234TMGDZ",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEADBTNB5HX2EH",
+    "name": "Kamakshi Krafts Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-mutli-colour03-kamakshi-krafts-xl-1000x1000-imaeaee4gb64tjb3.jpg?v=1757841336"
+  },
+  {
+    "id": "DREDUZRKMF54XMGV",
+    "name": "I Am For You Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYBUXK2JCCGMA",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 960,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZZTUSAHPHGUS",
+    "name": "Karishma Women's A-line Dress",
+    "price": 0,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAB2FTG8PGXWJ",
+    "name": "Just Wow Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7GUQGZVGJ3JM",
+    "name": "Latin Quarters Women's A-line Dress",
+    "price": 796,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYB4GKJHBVSGZ",
+    "name": "Miss Chase Women's Sheath Dress",
+    "price": 869,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDV8HGDHM8D6PU",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 779,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB967SUFHDACG",
+    "name": "Hitanshindia Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE58QRW5T5T8MK",
+    "name": "Lady Stark Women's A-line Dress",
+    "price": 839,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7UE3TTMMHCGC",
+    "name": "Isadora Women's Empire Waist Dress",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7UE3SH2GGG2F",
+    "name": "Isadora Women's Shift Dress",
+    "price": 850,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-wcd524018-isadora-l-original-imae7ucazjxmaqhz.jpg?v=1757841331"
+  },
+  {
+    "id": "DREE6HF4ZRJU98TB",
+    "name": "Kook N Keech Disney Women's A-line Dress",
+    "price": 809,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFYYF6CJDADMW",
+    "name": "Meira Women's Maxi Dress",
+    "price": 724,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE484RFP92ZTUF",
+    "name": "I Am For You Women's Bubble Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREED4H9SRYZYAZ3",
+    "name": "Legona Women's Sheath Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE45NNFKMHUAGK",
+    "name": "Kyma Women's Empire Waist Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9ZY9WZXZTDVD",
+    "name": "Lady Stark Women's High Low Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9EHE2THJWZN6",
+    "name": "Maggie Women's Maxi Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECACWBGY4WYZR",
+    "name": "Legona Women's Sheath Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE978EVUSGXSDW",
+    "name": "Kaxiaa Women's Sheath Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE644D97BN8PXV",
+    "name": "Iknow Women's Empire Waist Dress",
+    "price": 679,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECGZJUXBSTHKH",
+    "name": "jiiah Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9CRGV26DDSBH",
+    "name": "Meira Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6YTKPUA6KTGW",
+    "name": "Londonhouze Women's Bandage Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4K5GYYJTFU5Z",
+    "name": "Hugo Chavez Women's A-line Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAHARZKKBPAXE",
+    "name": "LondonHouze Women's Bandage Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4A2RZKRFZDKS",
+    "name": "Modimania Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/mod0088-modimania-s-original-imae492btayqs368.jpg?v=1757841318"
+  },
+  {
+    "id": "DREEYYFRUPZRSVKS",
+    "name": "La Zoire Women's Shift Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE3WY2HGZCYAV7",
+    "name": "Indiatrendzs Women's Gathered Dress",
+    "price": 612,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBHCHXSTD9BMT",
+    "name": "Kcrimson Women's A-line Dress",
+    "price": 689,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FZ3E5UYUEEY",
+    "name": "Instacrush Women's A-line Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4MCWZYN7RGB6",
+    "name": "IDK Woman Women's Shift Dress",
+    "price": 838,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNZSVNVHHK",
+    "name": "maggie Women's Empire Waist Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWRZXUNRJPX",
+    "name": "Latin Quarters Women's Gathered Dress",
+    "price": 916,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBRFYZ55GGGYJ",
+    "name": "Lady Stark Women's Gathered Dress",
+    "price": 739,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7NMEMZRGT9DM",
+    "name": "Meiro Women's Peplum Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6UDPHFXJDNTB",
+    "name": "Inmark Women's Shift Dress",
+    "price": 838,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAXE3RZMHYH94",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFYYFUE9NFU8F",
+    "name": "Meira Women's Maxi Dress",
+    "price": 724,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB2XCXFHZNMVM",
+    "name": "Motif Women's Shift Dress",
+    "price": 720,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8H6NY5ZQFGPV",
+    "name": "Inmark Women's Shift Dress",
+    "price": 838,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE64PGW6PNQHPK",
+    "name": "Motif Women's A-line Dress",
+    "price": 675,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEARMHZVHGCSJT",
+    "name": "Her Grace Women's A-line Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBBWDWEFTZQB7",
+    "name": "Meira Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWRYYJGFGHG",
+    "name": "Latin Quarters Women's Gathered Dress",
+    "price": 840,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWRSMCE3BYQ",
+    "name": "Latin Quarters Women's A-line Dress",
+    "price": 796,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7FT8AQ2F9CQC",
+    "name": "Miss India Women's Shift Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAF9GGGUTKHXQ",
+    "name": "Hugo Chavez Women's A-line Dress",
+    "price": 757,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDV8HG7Z8BFFXZ",
+    "name": "Miss Chase Women's Sheath Dress",
+    "price": 929,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECCMNGJUWZDVF",
+    "name": "Maggie Women's Shift Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB5WFZEYGYBST",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 997,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE978EXDA4XHRY",
+    "name": "Kaxiaa Women's Layered Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE88HJYRXGWHNG",
+    "name": "Modimania Women's Gathered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9HY9TTBYDQSZ",
+    "name": "Londonhouze Women's Bandage Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9ZKYZJHBS45P",
+    "name": "Liz Lange Women's A-line Dress",
+    "price": 679,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBHBUXZUNYVGZ",
+    "name": "La Zoire Women's Shift Dress",
+    "price": 849,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8FWRZDEXKGDT",
+    "name": "Latin Quarters Women's Shift Dress",
+    "price": 876,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9RFJHSFJHVFG",
+    "name": "Modimania Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZPX3HYAGG8JD",
+    "name": "Miss Chase Women's Bandage Dress",
+    "price": 680,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDT9RCUGEJ6BQU",
+    "name": "Miss Chase Women's A-line Dress",
+    "price": 839,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE88DFJHHS9RBG",
+    "name": "Meiro Women's Sheath Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDVZKGM9JFTYEC",
+    "name": "Jealous 21 Women's Shift Dress",
+    "price": 838,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE6D3EYQGBEMPR",
+    "name": "Hugo Chavez Women's Maxi Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9R3RPAGHHCT2",
+    "name": "House Of Tantrums Women's Empire Waist Dress",
+    "price": 629,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7PGWPSUCATZN",
+    "name": "Meee Women's Empire Waist Dress",
+    "price": 647,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7FFM2KHANFVA",
+    "name": "Mayra Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4K5GU54QXGKD",
+    "name": "Hugo Chavez Women's Bandage Dress",
+    "price": 697,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECHGKNA4HRKNH",
+    "name": "Maggie Women's Shift Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8UGVCRSUVFKF",
+    "name": "Indi Bargain Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8RTGWJMQSAGS",
+    "name": "Ishin Designer Studio Women's A-line Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9S6HRABZ75YM",
+    "name": "Meraki Women's Maxi Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBN4SZ8MWAUFM",
+    "name": "Kwardrobe Women's Gathered Dress",
+    "price": 672,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-ss-249-kwardrobe-xxl-original-imaebmts5am3pbft.jpg?v=1757841290"
+  },
+  {
+    "id": "DREE4CYTGTENJFA5",
+    "name": "Meiro Women's Empire Waist Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECHUGPVDQR3VW",
+    "name": "Mayra Women's Maxi Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEA7P9K52ZHHMV",
+    "name": "Just Wow Women's A-line Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDQXBBVXSNUHGE",
+    "name": "Ladybug Women's Gathered Dress",
+    "price": 899,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE8ANHRUEEHQGZ",
+    "name": "Ladybug Women's Shift Dress",
+    "price": 959,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAZAC72AY8ZGV",
+    "name": "Kaira Women's Shift Dress",
+    "price": 910,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAYYGXSKPZMKD",
+    "name": "Karyn Women's Empire Waist Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBWSUYNPFACWZ",
+    "name": "Ladybug Women's Shift Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBMB4YH8FUSHX",
+    "name": "L'appel Du Vide Women's Shift Dress",
+    "price": 949,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE7NMEYW89MK2T",
+    "name": "La Arista Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-ladr30-la-arista-s-original-imae7nhnwcnvxzgc.jpg?v=1757841282"
+  },
+  {
+    "id": "DREEAHQZQEKXFHNX",
+    "name": "Honey by Pantaloons Women's Empire Waist Dress",
+    "price": 779,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEFCFB4Z5ZNWHD",
+    "name": "Monica Dogra for Stylista Women's Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEAP5YM27GQUFZ",
+    "name": "India Inc Women's Gathered Dress",
+    "price": 649,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDZNRZY9MRHGYB",
+    "name": "I Am For You Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE63YVJZEAGEGN",
+    "name": "Motif Women's A-line Dress",
+    "price": 855,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDX8YF3YEJHEXD",
+    "name": "Jealous 21 Women's Gathered Dress",
+    "price": 958,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEB2XDPCBRTVHF",
+    "name": "Motif Women's Shift Dress",
+    "price": 810,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECUY9TEUTKCHT",
+    "name": "Maggie Women's High Low Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE9R3RUQVSR3FG",
+    "name": "House Of Tantrums Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBPVEPGQ4DN5V",
+    "name": "Heart Made Women's Gathered Dress",
+    "price": 750,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREDUZRK9ZWWFDU9",
+    "name": "I Am For You Women's Empire Waist Dress",
+    "price": 629,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE4CYTNEDYVGMP",
+    "name": "Meiro Women's Empire Waist Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBMB4XAWWEYCT",
+    "name": "L'appel Du Vide Women's Shift Dress",
+    "price": 749,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/1-1-spdr-bl-07-l-appel-du-vide-xxl-original-imaebgqgudjytzm2.jpg?v=1757841272"
+  },
+  {
+    "id": "DREE4HF6FYRN5SMG",
+    "name": "Maya apparels Women's A-line Dress",
+    "price": 625,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEBJ4NZZCGUFJV",
+    "name": "Lynda Women's A-line Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE5ZCFEGRDRVQM",
+    "name": "Indi Bargain Women's Maxi Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE45ZDTGSRFUHD",
+    "name": "Maya Apparels Women's Gathered Dress",
+    "price": 799,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEYPKZ9VUXAGYU",
+    "name": "Meee Women's Maxi Dress",
+    "price": 747,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEY9PFYPZY8P7Z",
+    "name": "La Arista Women's Shift Dress",
+    "price": 809,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREE87GTRP86YGTZ",
+    "name": "Meiro Women's Peplum Dress",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREECGZJQUYYNJAP",
+    "name": "jiiah Women's Shift Dress",
+    "price": 999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "DREEC8AVCH2NGVPG",
+    "name": "Motif Women's Shift Dress",
+    "price": 952,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "FABEG8GYDAABECZH",
+    "name": "Aarushi Fashion Silk Striped Salwar Suit Dupatta Material",
+    "price": 1350,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "FABEGGHHGSVCHGFV",
+    "name": "Sinina Chanderi Embroidered Salwar Suit Dupatta Material",
+    "price": 1000,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": ""
+  },
+  {
+    "id": "LEHEGGEHYN4G2RPW",
+    "name": "Ambika Lahenga Embroidered Lehenga, Choli and Dupatta Set",
+    "price": 24995,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/g55-ambika-lahenga-42-1000x1000-imaegg78ngzzsz67.jpg?v=1757841263"
+  },
+  {
+    "id": "FABEG8GFDUWRSNU3",
+    "name": "Aarushi Fashion Chanderi Embroidered Salwar Suit Dupatta Material",
+    "price": 1300,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/aar5036-aarushi-fashion-original-imaefh67gyufesq6.jpg?v=1757841264"
+  },
+  {
+    "id": "FABEGGHHDFMY8BZU",
+    "name": "Sinina Chanderi Embroidered Salwar Suit Dupatta Material",
+    "price": 1490,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/112tangy5003-tangerines-1100x1360-imaeysg7aygk3pzh.jpg?v=1757841262"
+  },
+  {
+    "id": "SWSEJYE6QNFHD46Z",
+    "name": "KAROZ Full Sleeve Solid Women's Sweatshirt",
+    "price": 795,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/ss-karoz1499green-karoz-xxl-original-imaecphupdj7ash7.jpg?v=1757841261"
+  },
+  {
+    "id": "SKIEJG7A5BAGSQCT",
+    "name": "Antistreet Printed, Self Design, Solid Women's Regular Black Skirt",
+    "price": 530,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/skt9001-blk-antistreet-xl-original-imae9zfnebchrgfc.jpg?v=1757841259"
+  },
+  {
+    "id": "SKIEJG79FNUZGFMS",
+    "name": "Antistreet Printed, Self Design, Solid Women's Regular Black Skirt",
+    "price": 1026,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/skt9020-blk-antistreet-xl-original-imaeghywpjcnsufr.jpg?v=1757841259"
+  },
+  {
+    "id": "SKIEJGNWSMZPZESB",
+    "name": "Shopmore Printed Women's Regular Pink Skirt",
+    "price": 470,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/swsm007228-shopmore-free-original-imaejfryq5eezfgg.jpg?v=1757841258"
+  },
+  {
+    "id": "SKIEJH4T9YCH2BCX",
+    "name": "Pezzava Self Design Women's, Girl's Regular Blue Skirt",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/skt-rkc-a0033-pezzava-38-original-imaejfzzshnjzhsw.jpg?v=1757841257"
+  },
+  {
+    "id": "SKIEJEF9UDVPHGWA",
+    "name": "Indiatrendzs Embellished Women's A-line Yellow Skirt",
+    "price": 360,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/in-stok-2496-indiatrendzs-xl-original-imaejcarkn9yhacn.jpg?v=1757841257"
+  },
+  {
+    "id": "ETHEGDRC5S8PSBSZ",
+    "name": "Shreeka Women's Patiala and Dupatta Set",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/sfpt-18-shreeka-free-original-imaeg3hutnvkrmh7.jpg?v=1757841256"
+  },
+  {
+    "id": "SSDEF273QYRGYVBV",
+    "name": "Eccellente LPLFLWR3BK Cotton Sliding Pin Shirt Stud",
+    "price": 332,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lplflwr3bk-eccellente-1100x1100-imaef24hmc8qfkcy.jpg?v=1757841255"
+  },
+  {
+    "id": "NDNEGCSFUTGDBNCP",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-18-ngt131-3-ngt132-4-blue-brown-simrit-free-original-imaegczcmwbqjjry.jpg?v=1757841255"
+  },
+  {
+    "id": "ETHEGES2YRTBVF6Z",
+    "name": "DEEPAK N DIVYA Women's Kurta and Pyjama Set",
+    "price": 379,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/deepak-kp24-deepak-n-divya-24-original-imaegepz8h2vazyh.jpg?v=1757841254"
+  },
+  {
+    "id": "ETHEGDXKKCQ5GHHX",
+    "name": "Lajo Women's Salwar and Kurta Set",
+    "price": 1714,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1042-lajo-44-original-imaegbzdct2uh9kp.jpg?v=1757841253"
+  },
+  {
+    "id": "NDNEGGFNYQKXNSGZ",
+    "name": "SAJNA CELEBRATIONS Women's Nighty",
+    "price": 725,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/ltxfd235-sajna-celebrations-xxl-original-imaegfxpkzjtyxva.jpg?v=1757841253"
+  },
+  {
+    "id": "NDNEGCRHXTP7BCQE",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-17-ngt131-2-ngt127-2-green-brown-simrit-free-original-imaegczcmp2zzuya.jpg?v=1757841251"
+  },
+  {
+    "id": "ETHEGDXN9FGTZNGZ",
+    "name": "Lajo Women's Salwar and Kurta Set",
+    "price": 1714,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1046-lajo-44-original-imaegbzex5fpz85q.jpg?v=1757841251"
+  },
+  {
+    "id": "ETHEGDXZCGNQNFNR",
+    "name": "Lajo Women's Salwar and Kurta Set",
+    "price": 1714,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1049-lajo-44-original-imaegbzdmqskyqft.jpg?v=1757841251"
+  },
+  {
+    "id": "NDNEGCU4QZJUYCWG",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-24-ngt133-1-ngt128-4-pink-red-simrit-free-original-imaegcs6g5xr8wnv.jpg?v=1757841250"
+  },
+  {
+    "id": "ETHEGEZ4RUMMYBJC",
+    "name": "Ninecolours Women's Churidar and Dupatta Set",
+    "price": 659,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/sm0561055-ninecolours-free-original-imaegyjxhswvz26r.jpg?v=1757841249"
+  },
+  {
+    "id": "ETHEGCR2FGRZBAEJ",
+    "name": "Sitaram Women's Top and Skirt Set",
+    "price": 1599,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/mb-navyblue23-sitaram-free-original-imaef2a9hv2b2nre.jpg?v=1757841248"
+  },
+  {
+    "id": "ETHEGBVP6N5NEVGA",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 1372,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1261-lajo-44-original-imaegbnhbhz4cyce.jpg?v=1757841248"
+  },
+  {
+    "id": "ETHEGBVP9VHFZD7R",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 3372,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1265-lajo-44-original-imaegbnh88rpjgqq.jpg?v=1757841247"
+  },
+  {
+    "id": "ETHEGDXNPERZTMUZ",
+    "name": "Lajo Women's Salwar and Kurta Set",
+    "price": 1714,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1047-lajo-44-original-imaegbzdvkzmt4qz.jpg?v=1757841247"
+  },
+  {
+    "id": "ETHEGF9FCGSZTGUN",
+    "name": "Atithee Women's Top and Skirt Set",
+    "price": 1695,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/ae03-028-atithee-xl-original-imaegf2y3muudet9.jpg?v=1757841246"
+  },
+  {
+    "id": "ETHEGCR3PYGB3MA4",
+    "name": "Sitaram Women's Top and Skirt Set",
+    "price": 1599,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/sf87darshti-black23-sitaram-free-original-imaeg97gtndhughb.jpg?v=1757841244"
+  },
+  {
+    "id": "ETHEGDTGFYZ7FGFT",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2022,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1287-lajo-42-original-imaegbnhwegqdhyy.jpg?v=1757841245"
+  },
+  {
+    "id": "ETHEGBVZYY5VGZU4",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2847,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1228-lajo-44-original-imaegbnhgx8zafph.jpg?v=1757841244"
+  },
+  {
+    "id": "ETHEGDTGRWRVJQGP",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2089,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1283-lajo-42-original-imaegbnhfdvhxafp.jpg?v=1757841243"
+  },
+  {
+    "id": "NDNEGCSG2JYTXSYU",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-19-ngt131-4-ngt129-2-pink-pink-simrit-free-original-imaegczchkymdgrk.jpg?v=1757841242"
+  },
+  {
+    "id": "ETHEGDRCZHGFREBW",
+    "name": "Shreeka Women's Patiala and Dupatta Set",
+    "price": 699,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/sfpt-4-shreeka-free-original-imaegbkgkdrjszgk.jpg?v=1757841241"
+  },
+  {
+    "id": "ETHEGBVPKX3ZDAES",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 3372,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1268-lajo-44-original-imaegbnhbxwz2fbk.jpg?v=1757841240"
+  },
+  {
+    "id": "NDNEGCU36N5GTM3Y",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-23-ngt132-4-ngt131-4-brown-pink-simrit-free-original-imaegcs66zhxpxrm.jpg?v=1757841240"
+  },
+  {
+    "id": "ETHEGD3EJ6BMAF7H",
+    "name": "Cynthia's Fashion Women's, Girl's Kurta, Pyjama & Dupatta Set",
+    "price": 1999,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cfk-som-dssk-ak284-peach-cynthia-s-fashion-free-original-imaegd29phxgtstp.jpg?v=1757841239"
+  },
+  {
+    "id": "ETHEGBVPBYTNMZ7Y",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 3372,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1267-lajo-44-original-imaegbnhxzrpzssv.jpg?v=1757841238"
+  },
+  {
+    "id": "ETHEGBVZJYJKHKZH",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2847,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1225-lajo-44-original-imaegbnhkuvrtfha.jpg?v=1757841238"
+  },
+  {
+    "id": "NDNEGCSG2EKSBYHG",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-20-ngt132-1-ngt127-3-purple-pink-simrit-free-original-imaegczc3vnbrad4.jpg?v=1757841238"
+  },
+  {
+    "id": "ETHEGDTGZMBPGZGG",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2022,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1293-lajo-42-original-imaegbnhhbhahq6h.jpg?v=1757841237"
+  },
+  {
+    "id": "ETHEGCR4DPEVRZZF",
+    "name": "Sitaram Women's Top and Skirt Set",
+    "price": 1599,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/aashiyana-red-black23-sitaram-free-original-imaeesfsdgcndgqd.jpg?v=1757841236"
+  },
+  {
+    "id": "NDNEGCSGGMCWGFNW",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-19-ngt131-4-ngt128-4-pink-red-simrit-free-original-imaegczchxtzjghf.jpg?v=1757841236"
+  },
+  {
+    "id": "NDNEGCSGWWRHXNQV",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-19-ngt131-4-ngt130-4-pink-blue-simrit-free-original-imaegczcazsr6gh5.jpg?v=1757841235"
+  },
+  {
+    "id": "ETHEGBVZJJWYVKVQ",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2514,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1182-lajo-42-original-imaegbnhxyxsk4h7.jpg?v=1757841234"
+  },
+  {
+    "id": "NDNEGCU4WZWXZVYH",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-24-ngt133-1-ngt129-2-pink-pink-simrit-free-original-imaegcs6zfubzju3.jpg?v=1757841233"
+  },
+  {
+    "id": "ETHEGDTGYZMMUAQG",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2089,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1292-lajo-42-original-imaegbnhujupx6jy.jpg?v=1757841232"
+  },
+  {
+    "id": "ETHEGBVZSVRDGPBC",
+    "name": "Lajo Women's Salwar and Dupatta Set",
+    "price": 2264,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/lfa1177-lajo-42-original-imaegbnhacexkzaa.jpg?v=1757841231"
+  },
+  {
+    "id": "NDNEGCU6HKGDZNDE",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-27-ngt133-4-ngt127-2-blue-brown-simrit-free-original-imaegcs6puyhdywj.jpg?v=1757841230"
+  },
+  {
+    "id": "NDNEGCSGGYWR4CBH",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-18-ngt131-3-ngt133-3-blue-green-simrit-free-original-imaegczcmu4bpuwx.jpg?v=1757841228"
+  },
+  {
+    "id": "NDNEGCU2N8CPHWKB",
+    "name": "Simrit Women's Nighty",
+    "price": 895,
+    "category": "Clothing",
+    "subcategory": "Other",
+    "image": "https://cdn.shopify.com/s/files/1/0721/9304/8766/files/cn-23-ngt132-4-ngt129-4-brown-green-simrit-free-original-imaegcs6uekchtfh.jpg?v=1757841228"
+  }
+]
